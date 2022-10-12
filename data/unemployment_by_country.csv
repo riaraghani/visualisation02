@@ -51,7 +51,7 @@ Eritrea,Africa,Eastern Africa,5.260000229,2006
 Spain,Europe,Southern Europe,8.449999809,2006
 Estonia,Europe,Northern Europe,5.909999847,2006
 Ethiopia,Africa,Eastern Africa,2.470000029,2006
-European Union,Europe,#N/A,8.619775692,2006
+European Union,Europe,European Union,8.619775692,2006
 Finland,Europe,Northern Europe,7.71999979,2006
 Fiji,Oceania,Melanesia,3.959000111,2006
 France,Europe,Western Europe,8.449999809,2006
@@ -229,7 +229,7 @@ Eritrea,Africa,Eastern Africa,5.249000072,2007
 Spain,Europe,Southern Europe,8.229999542,2007
 Estonia,Europe,Northern Europe,4.590000153,2007
 Ethiopia,Africa,Eastern Africa,2.434999943,2007
-European Union,Europe,#N/A,7.44624124,2007
+European Union,Europe,European Union,7.44624124,2007
 Finland,Europe,Northern Europe,6.849999905,2007
 Fiji,Oceania,Melanesia,4.107999802,2007
 France,Europe,Western Europe,7.659999847,2007
@@ -407,7 +407,7 @@ Eritrea,Africa,Eastern Africa,5.171999931,2008
 Spain,Europe,Southern Europe,11.25,2008
 Estonia,Europe,Northern Europe,5.449999809,2008
 Ethiopia,Africa,Eastern Africa,2.405999899,2008
-European Union,Europe,#N/A,7.204406274,2008
+European Union,Europe,European Union,7.204406274,2008
 Finland,Europe,Northern Europe,6.369999886,2008
 Fiji,Oceania,Melanesia,4.162000179,2008
 France,Europe,Western Europe,7.059999943,2008
@@ -585,7 +585,7 @@ Eritrea,Africa,Eastern Africa,5.244999886,2009
 Spain,Europe,Southern Europe,17.86000061,2009
 Estonia,Europe,Northern Europe,13.55000019,2009
 Ethiopia,Africa,Eastern Africa,2.380000114,2009
-European Union,Europe,#N/A,9.128256012,2009
+European Union,Europe,European Union,9.128256012,2009
 Finland,Europe,Northern Europe,8.25,2009
 Fiji,Oceania,Melanesia,4.309999943,2009
 France,Europe,Western Europe,8.739999771,2009
@@ -763,7 +763,7 @@ Eritrea,Africa,Eastern Africa,5.579999924,2013
 Spain,Europe,Southern Europe,26.09000015,2013
 Estonia,Europe,Northern Europe,8.630000114,2013
 Ethiopia,Africa,Eastern Africa,2.25,2013
-European Union,Europe,#N/A,11.33171215,2013
+European Union,Europe,European Union,11.33171215,2013
 Finland,Europe,Northern Europe,8.18999958,2013
 Fiji,Oceania,Melanesia,4.327000141,2013
 France,Europe,Western Europe,9.920000076,2013
@@ -941,7 +941,7 @@ Eritrea,Africa,Eastern Africa,5.494999886,2010
 Spain,Europe,Southern Europe,19.86000061,2010
 Estonia,Europe,Northern Europe,16.70999908,2010
 Ethiopia,Africa,Eastern Africa,2.338999987,2010
-European Union,Europe,#N/A,9.803138117,2010
+European Union,Europe,European Union,9.803138117,2010
 Finland,Europe,Northern Europe,8.390000343,2010
 Fiji,Oceania,Melanesia,4.309999943,2010
 France,Europe,Western Europe,8.869999886,2010
@@ -1119,7 +1119,7 @@ Eritrea,Africa,Eastern Africa,5.520999908,2011
 Spain,Europe,Southern Europe,21.38999939,2011
 Estonia,Europe,Northern Europe,12.32999992,2011
 Ethiopia,Africa,Eastern Africa,2.312000036,2011
-European Union,Europe,#N/A,9.840611672,2011
+European Union,Europe,European Union,9.840611672,2011
 Finland,Europe,Northern Europe,7.78000021,2011
 Fiji,Oceania,Melanesia,4.409999847,2011
 France,Europe,Western Europe,8.81000042,2011
@@ -1297,7 +1297,7 @@ Eritrea,Africa,Eastern Africa,5.53000021,2012
 Spain,Europe,Southern Europe,24.79000092,2012
 Estonia,Europe,Northern Europe,10.02000046,2012
 Ethiopia,Africa,Eastern Africa,2.286999941,2012
-European Union,Europe,#N/A,10.81102844,2012
+European Union,Europe,European Union,10.81102844,2012
 Finland,Europe,Northern Europe,7.690000057,2012
 Fiji,Oceania,Melanesia,4.420000076,2012
 France,Europe,Western Europe,9.399999619,2012
@@ -1475,7 +1475,7 @@ Eritrea,Africa,Eastern Africa,5.672999859,2014
 Spain,Europe,Southern Europe,24.44000053,2014
 Estonia,Europe,Northern Europe,7.349999905,2014
 Ethiopia,Africa,Eastern Africa,2.262000084,2014
-European Union,Europe,#N/A,10.851028,2014
+European Union,Europe,European Union,10.851028,2014
 Finland,Europe,Northern Europe,8.659999847,2014
 Fiji,Oceania,Melanesia,4.289999962,2014
 France,Europe,Western Europe,10.28999996,2014
@@ -1653,7 +1653,7 @@ Eritrea,Africa,Eastern Africa,5.828000069,2015
 Spain,Europe,Southern Europe,22.05999947,2015
 Estonia,Europe,Northern Europe,6.190000057,2015
 Ethiopia,Africa,Eastern Africa,2.273999929,2015
-European Union,Europe,#N/A,10.03105446,2015
+European Union,Europe,European Union,10.03105446,2015
 Finland,Europe,Northern Europe,9.380000114,2015
 Fiji,Oceania,Melanesia,4.295000076,2015
 France,Europe,Western Europe,10.35000038,2015
@@ -1831,7 +1831,7 @@ Eritrea,Africa,Eastern Africa,5.90199995,2016
 Spain,Europe,Southern Europe,19.62999916,2016
 Estonia,Europe,Northern Europe,6.760000229,2016
 Ethiopia,Africa,Eastern Africa,2.288000107,2016
-European Union,Europe,#N/A,9.117230558,2016
+European Union,Europe,European Union,9.117230558,2016
 Finland,Europe,Northern Europe,8.819999695,2016
 Fiji,Oceania,Melanesia,4.320000172,2016
 France,Europe,Western Europe,10.05000019,2016
@@ -2009,7 +2009,7 @@ Eritrea,Africa,Eastern Africa,5.94299984,2017
 Spain,Europe,Southern Europe,17.21999931,2017
 Estonia,Europe,Northern Europe,5.760000229,2017
 Ethiopia,Africa,Eastern Africa,2.299000025,2017
-European Union,Europe,#N/A,8.1358044,2017
+European Union,Europe,European Union,8.1358044,2017
 Finland,Europe,Northern Europe,8.640000343,2017
 Fiji,Oceania,Melanesia,4.277999878,2017
 France,Europe,Western Europe,9.409999847,2017
@@ -2187,7 +2187,7 @@ Eritrea,Africa,Eastern Africa,5.947000027,2018
 Spain,Europe,Southern Europe,15.25,2018
 Estonia,Europe,Northern Europe,5.369999886,2018
 Ethiopia,Africa,Eastern Africa,2.318000078,2018
-European Union,Europe,#N/A,7.266660274,2018
+European Union,Europe,European Union,7.266660274,2018
 Finland,Europe,Northern Europe,7.360000134,2018
 Fiji,Oceania,Melanesia,4.333000183,2018
 France,Europe,Western Europe,9.020000458,2018
@@ -2365,7 +2365,7 @@ Eritrea,Africa,Eastern Africa,5.993999958,2019
 Spain,Europe,Southern Europe,14.10000038,2019
 Estonia,Europe,Northern Europe,4.449999809,2019
 Ethiopia,Africa,Eastern Africa,2.325999975,2019
-European Union,Europe,#N/A,6.69189042,2019
+European Union,Europe,European Union,6.69189042,2019
 Finland,Europe,Northern Europe,6.690000057,2019
 Fiji,Oceania,Melanesia,4.447999954,2019
 France,Europe,Western Europe,8.409999847,2019
@@ -2543,7 +2543,7 @@ Eritrea,Africa,Eastern Africa,7.864999771,2020
 Spain,Europe,Southern Europe,15.52999973,2020
 Estonia,Europe,Northern Europe,6.800000191,2020
 Ethiopia,Africa,Eastern Africa,3.236999989,2020
-European Union,Europe,#N/A,7.046586952,2020
+European Union,Europe,European Union,7.046586952,2020
 Finland,Europe,Northern Europe,7.760000229,2020
 Fiji,Oceania,Melanesia,4.715000153,2020
 France,Europe,Western Europe,8.010000229,2020
@@ -2721,7 +2721,7 @@ Eritrea,Africa,Eastern Africa,8.046999931,2021
 Spain,Europe,Southern Europe,14.7329998,2021
 Estonia,Europe,Northern Europe,6.330999851,2021
 Ethiopia,Africa,Eastern Africa,3.694000006,2021
-European Union,Europe,#N/A,7.043014298,2021
+European Union,Europe,European Union,7.043014298,2021
 Finland,Europe,Northern Europe,7.525000095,2021
 Fiji,Oceania,Melanesia,5.238999844,2021
 France,Europe,Western Europe,8.062999725,2021
@@ -2847,136 +2847,3 @@ Yemen,Asia,Western Asia,13.57400036,2021
 South Africa,Africa,Southern Africa,33.55899811,2021
 Zambia,Africa,Eastern Africa,13.02600002,2021
 Zimbabwe,Africa,Eastern Africa,5.173999786,2021
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
-,,,,
