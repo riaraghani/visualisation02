@@ -1,0 +1,2323 @@
+﻿Country,Year,Continent,Index Name,Rate
+Switzerland,2022,Europe,Purchasing Power Index,116.19
+Denmark,2022,Europe,Purchasing Power Index,99.76
+Netherlands,2022,Europe,Purchasing Power Index,99.58
+Australia,2022,Oceania,Purchasing Power Index,117.56
+Finland,2022,Europe,Purchasing Power Index,91
+Iceland,2022,Europe,Purchasing Power Index,82.62
+Norway,2022,Europe,Purchasing Power Index,86.27
+Germany,2022,Europe,Purchasing Power Index,102.75
+Austria,2022,Europe,Purchasing Power Index,75.09
+New Zealand,2022,Oceania,Purchasing Power Index,85.02
+United Arab Emirates,2022,Asia,Purchasing Power Index,118.94
+Estonia,2022,Europe,Purchasing Power Index,60.41
+Luxembourg,2022,Europe,Purchasing Power Index,96.13
+Sweden,2022,Europe,Purchasing Power Index,94.93
+Spain,2022,Europe,Purchasing Power Index,77.29
+Japan,2022,Asia,Purchasing Power Index,91.13
+Oman,2022,Asia,Purchasing Power Index,78.78
+Slovenia,2022,Europe,Purchasing Power Index,57.95
+United States of America,2022,Americas,Purchasing Power Index,99.88
+United Kingdom,2022,Europe,Purchasing Power Index,92.86
+Czech Republic,2022,Europe,Purchasing Power Index,69.94
+Canada,2022,Americas,Purchasing Power Index,101.67
+Lithuania,2022,Europe,Purchasing Power Index,55.67
+Croatia,2022,Europe,Purchasing Power Index,52.79
+Portugal,2022,Europe,Purchasing Power Index,47.89
+Belgium,2022,Europe,Purchasing Power Index,86.27
+Qatar,2022,Asia,Purchasing Power Index,98.13
+Singapore,2022,Asia,Purchasing Power Index,94.65
+France,2022,Europe,Purchasing Power Index,79.61
+Latvia,2022,Europe,Purchasing Power Index,49.84
+Ireland,2022,Europe,Purchasing Power Index,75.2
+Slovakia,2022,Europe,Purchasing Power Index,53.84
+Saudi Arabia,2022,Asia,Purchasing Power Index,93.26
+Cyprus,2022,Asia,Purchasing Power Index,54.47
+Israel,2022,Asia,Purchasing Power Index,73.54
+Taiwan,2022,Asia,Purchasing Power Index,61.78
+Italy,2022,Europe,Purchasing Power Index,58
+South Africa,2022,Africa,Purchasing Power Index,77.84
+Hungary,2022,Europe,Purchasing Power Index,53.24
+Poland,2022,Europe,Purchasing Power Index,60.65
+Puerto Rico,2022,Americas,Purchasing Power Index,65.41
+Romania,2022,Europe,Purchasing Power Index,48.84
+South Korea,2022,Asia,Purchasing Power Index,81.3
+Bosnia And Herzegovina,2022,Europe,Purchasing Power Index,46.51
+Bulgaria,2022,Europe,Purchasing Power Index,46.9
+Greece,2022,Europe,Purchasing Power Index,38.39
+Mexico,2022,Americas,Purchasing Power Index,41.1
+India,2022,Asia,Purchasing Power Index,76.44
+Costa Rica,2022,Americas,Purchasing Power Index,38.59
+Uruguay,2022,Americas,Purchasing Power Index,28.64
+Malaysia,2022,Asia,Purchasing Power Index,59.41
+Serbia,2022,Europe,Purchasing Power Index,41.56
+Ecuador,2022,Americas,Purchasing Power Index,33.55
+Turkey,2022,Asia,Purchasing Power Index,28.04
+Georgia,2022,Asia,Purchasing Power Index,25.13
+Kuwait,2022,Asia,Purchasing Power Index,81.76
+Tunisia,2022,Africa,Purchasing Power Index,28.62
+Panama,2022,Americas,Purchasing Power Index,32.66
+Jordan,2022,Asia,Purchasing Power Index,32.23
+Ukraine,2022,Europe,Purchasing Power Index,36.29
+Argentina,2022,Americas,Purchasing Power Index,33.64
+North Macedonia,2022,Europe,Purchasing Power Index,35.57
+Belarus,2022,Europe,Purchasing Power Index,32.31
+Azerbaijan,2022,Asia,Purchasing Power Index,29.36
+Morocco,2022,Africa,Purchasing Power Index,32.67
+Malta,2022,Europe,Purchasing Power Index,44.8
+Brazil,2022,Americas,Purchasing Power Index,27.28
+Hong Kong,2022,Asia,Purchasing Power Index,66.93
+Russian Federation,2022,Europe,Purchasing Power Index,42.22
+Pakistan,2022,Asia,Purchasing Power Index,24.45
+Colombia,2022,Americas,Purchasing Power Index,28.27
+Chile,2022,Americas,Purchasing Power Index,35.79
+Thailand,2022,Asia,Purchasing Power Index,30.82
+Lebanon,2022,Asia,Purchasing Power Index,31.98
+Indonesia,2022,Asia,Purchasing Power Index,25.52
+Kazakhstan,2022,Asia,Purchasing Power Index,35.23
+China,2022,Asia,Purchasing Power Index,56.24
+Egypt,2022,Africa,Purchasing Power Index,21.72
+Kenya,2022,Africa,Purchasing Power Index,32.19
+Vietnam,2022,Asia,Purchasing Power Index,28.18
+Philippines,2022,Asia,Purchasing Power Index,20.06
+Peru,2022,Americas,Purchasing Power Index,28.52
+Venezuela,2022,Americas,Purchasing Power Index,12.72
+Iran,2022,Asia,Purchasing Power Index,18.03
+Sri Lanka,2022,Asia,Purchasing Power Index,15.28
+Bangladesh,2022,Asia,Purchasing Power Index,25.34
+Nigeria,2022,Africa,Purchasing Power Index,8.25
+Switzerland,2021,Europe,Purchasing Power Index,110.96
+Denmark,2021,Europe,Purchasing Power Index,94.73
+Netherlands,2021,Europe,Purchasing Power Index,83.89
+Finland,2021,Europe,Purchasing Power Index,89.05
+Austria,2021,Europe,Purchasing Power Index,78.23
+Australia,2021,Oceania,Purchasing Power Index,99.29
+Iceland,2021,Europe,Purchasing Power Index,71.88
+Germany,2021,Europe,Purchasing Power Index,93.72
+New Zealand,2021,Oceania,Purchasing Power Index,81.44
+Norway,2021,Europe,Purchasing Power Index,79.43
+Estonia,2021,Europe,Purchasing Power Index,61.22
+Oman,2021,Asia,Purchasing Power Index,84.45
+Sweden,2021,Europe,Purchasing Power Index,90.55
+Slovenia,2021,Europe,Purchasing Power Index,56.14
+United States of America,2021,Americas,Purchasing Power Index,102.58
+Spain,2021,Europe,Purchasing Power Index,62.68
+Japan,2021,Asia,Purchasing Power Index,76.53
+Portugal,2021,Europe,Purchasing Power Index,44.96
+Lithuania,2021,Europe,Purchasing Power Index,54.6
+Canada,2021,Americas,Purchasing Power Index,82.76
+United Kingdom,2021,Europe,Purchasing Power Index,82.56
+Czech Republic,2021,Europe,Purchasing Power Index,56.4
+Croatia,2021,Europe,Purchasing Power Index,43.13
+United Arab Emirates,2021,Asia,Purchasing Power Index,85.74
+Qatar,2021,Asia,Purchasing Power Index,93.12
+Belgium,2021,Europe,Purchasing Power Index,76.54
+Ireland,2021,Europe,Purchasing Power Index,73.84
+France,2021,Europe,Purchasing Power Index,74.06
+Slovakia,2021,Europe,Purchasing Power Index,50.39
+Latvia,2021,Europe,Purchasing Power Index,45.94
+Saudi Arabia,2021,Asia,Purchasing Power Index,88.18
+Israel,2021,Asia,Purchasing Power Index,70.36
+Cyprus,2021,Asia,Purchasing Power Index,52.34
+Singapore,2021,Asia,Purchasing Power Index,83.62
+Taiwan,2021,Asia,Purchasing Power Index,56.08
+Italy,2021,Europe,Purchasing Power Index,58.7
+Hungary,2021,Europe,Purchasing Power Index,49.81
+Poland,2021,Europe,Purchasing Power Index,47.09
+South Africa,2021,Africa,Purchasing Power Index,72.92
+Romania,2021,Europe,Purchasing Power Index,45.19
+Puerto Rico,2021,Americas,Purchasing Power Index,69.22
+South Korea,2021,Asia,Purchasing Power Index,76.6
+Greece,2021,Europe,Purchasing Power Index,38.95
+Bulgaria,2021,Europe,Purchasing Power Index,40.26
+Turkey,2021,Asia,Purchasing Power Index,35.35
+Bosnia And Herzegovina,2021,Europe,Purchasing Power Index,42.56
+Uruguay,2021,Americas,Purchasing Power Index,30.62
+Costa Rica,2021,Americas,Purchasing Power Index,39.01
+Mexico,2021,Americas,Purchasing Power Index,35.54
+Georgia,2021,Asia,Purchasing Power Index,25.67
+Ecuador,2021,Americas,Purchasing Power Index,30.54
+Malaysia,2021,Asia,Purchasing Power Index,56.1
+Serbia,2021,Europe,Purchasing Power Index,35.83
+Jordan,2021,Asia,Purchasing Power Index,33.13
+Kuwait,2021,Asia,Purchasing Power Index,75.32
+Argentina,2021,Americas,Purchasing Power Index,34.56
+Panama,2021,Americas,Purchasing Power Index,32.05
+North Macedonia,2021,Europe,Purchasing Power Index,31.97
+Ukraine,2021,Europe,Purchasing Power Index,30.1
+Belarus,2021,Europe,Purchasing Power Index,31.96
+Pakistan,2021,Asia,Purchasing Power Index,27.28
+Brazil,2021,Americas,Purchasing Power Index,28.66
+India,2021,Asia,Purchasing Power Index,47.13
+Morocco,2021,Africa,Purchasing Power Index,32.17
+China,2021,Asia,Purchasing Power Index,57.47
+Azerbaijan,2021,Asia,Purchasing Power Index,25.77
+Russian Federation,2021,Europe,Purchasing Power Index,34.61
+Colombia,2021,Americas,Purchasing Power Index,26.13
+Thailand,2021,Asia,Purchasing Power Index,31.36
+Chile,2021,Americas,Purchasing Power Index,33.33
+Hong Kong,2021,Asia,Purchasing Power Index,62.45
+Kazakhstan,2021,Asia,Purchasing Power Index,34.92
+Lebanon,2021,Asia,Purchasing Power Index,29.49
+Indonesia,2021,Asia,Purchasing Power Index,20.89
+Vietnam,2021,Asia,Purchasing Power Index,27.26
+Egypt,2021,Africa,Purchasing Power Index,19.99
+Peru,2021,Americas,Purchasing Power Index,28.81
+Sri Lanka,2021,Asia,Purchasing Power Index,20.77
+Philippines,2021,Asia,Purchasing Power Index,19.71
+Kenya,2021,Africa,Purchasing Power Index,27.67
+Bangladesh,2021,Asia,Purchasing Power Index,24.07
+Iran,2021,Asia,Purchasing Power Index,19
+Nigeria,2021,Africa,Purchasing Power Index,9.78
+Denmark,2020,Europe,Purchasing Power Index,100.88
+Switzerland,2020,Europe,Purchasing Power Index,119.53
+Finland,2020,Europe,Purchasing Power Index,99.93
+Australia,2020,Oceania,Purchasing Power Index,107.31
+Netherlands,2020,Europe,Purchasing Power Index,90.73
+Austria,2020,Europe,Purchasing Power Index,82.38
+Iceland,2020,Europe,Purchasing Power Index,79.44
+New Zealand,2020,Oceania,Purchasing Power Index,92.66
+Germany,2020,Europe,Purchasing Power Index,102.36
+Estonia,2020,Europe,Purchasing Power Index,71.3
+Sweden,2020,Europe,Purchasing Power Index,101.73
+Norway,2020,Europe,Purchasing Power Index,88.38
+Slovenia,2020,Europe,Purchasing Power Index,66.31
+United States of America,2020,Americas,Purchasing Power Index,109.52
+Spain,2020,Europe,Purchasing Power Index,72.03
+Japan,2020,Asia,Purchasing Power Index,87.28
+Oman,2020,Asia,Purchasing Power Index,80.97
+Canada,2020,Americas,Purchasing Power Index,95.09
+Portugal,2020,Europe,Purchasing Power Index,49.43
+United Kingdom,2020,Europe,Purchasing Power Index,91.73
+Qatar,2020,Asia,Purchasing Power Index,111.69
+Lithuania,2020,Europe,Purchasing Power Index,57.85
+Croatia,2020,Europe,Purchasing Power Index,50.42
+United Arab Emirates,2020,Asia,Purchasing Power Index,91.58
+Czech Republic,2020,Europe,Purchasing Power Index,62.82
+France,2020,Europe,Purchasing Power Index,80.36
+Ireland,2020,Europe,Purchasing Power Index,80.88
+Belgium,2020,Europe,Purchasing Power Index,86.28
+Slovakia,2020,Europe,Purchasing Power Index,56.94
+Saudi Arabia,2020,Asia,Purchasing Power Index,100
+Latvia,2020,Europe,Purchasing Power Index,52.48
+Israel,2020,Asia,Purchasing Power Index,78.09
+Cyprus,2020,Asia,Purchasing Power Index,57.41
+Singapore,2020,Asia,Purchasing Power Index,88.96
+Taiwan,2020,Asia,Purchasing Power Index,65.67
+Poland,2020,Europe,Purchasing Power Index,59.61
+Italy,2020,Europe,Purchasing Power Index,65.59
+South Korea,2020,Asia,Purchasing Power Index,85.21
+Belarus,2020,Europe,Purchasing Power Index,37
+Greece,2020,Europe,Purchasing Power Index,43.68
+Romania,2020,Europe,Purchasing Power Index,48.86
+South Africa,2020,Africa,Purchasing Power Index,73.61
+Bulgaria,2020,Europe,Purchasing Power Index,49.37
+Hungary,2020,Europe,Purchasing Power Index,47.55
+Turkey,2020,Asia,Purchasing Power Index,40.85
+Uruguay,2020,Americas,Purchasing Power Index,37.46
+Ecuador,2020,Americas,Purchasing Power Index,36.08
+Bosnia And Herzegovina,2020,Europe,Purchasing Power Index,41.83
+Chile,2020,Americas,Purchasing Power Index,42.5
+Mexico,2020,Americas,Purchasing Power Index,41.81
+Malaysia,2020,Asia,Purchasing Power Index,64.49
+Serbia,2020,Europe,Purchasing Power Index,36.72
+Georgia,2020,Asia,Purchasing Power Index,24.88
+Kuwait,2020,Asia,Purchasing Power Index,85.59
+Argentina,2020,Americas,Purchasing Power Index,47.22
+Jordan,2020,Asia,Purchasing Power Index,34.88
+North Macedonia,2020,Europe,Purchasing Power Index,37.15
+India,2020,Asia,Purchasing Power Index,54.3
+Panama,2020,Americas,Purchasing Power Index,34.23
+Lebanon,2020,Asia,Purchasing Power Index,44.47
+Colombia,2020,Americas,Purchasing Power Index,31.12
+Brazil,2020,Americas,Purchasing Power Index,32.81
+Morocco,2020,Africa,Purchasing Power Index,35.25
+Pakistan,2020,Asia,Purchasing Power Index,30.57
+Ukraine,2020,Europe,Purchasing Power Index,31.8
+China,2020,Asia,Purchasing Power Index,60.88
+Russian Federation,2020,Europe,Purchasing Power Index,38.94
+Thailand,2020,Asia,Purchasing Power Index,35.45
+Hong Kong,2020,Asia,Purchasing Power Index,65.32
+Indonesia,2020,Asia,Purchasing Power Index,25.05
+Kazakhstan,2020,Asia,Purchasing Power Index,38.36
+Vietnam,2020,Asia,Purchasing Power Index,28.14
+Egypt,2020,Africa,Purchasing Power Index,22.41
+Peru,2020,Americas,Purchasing Power Index,33.95
+Philippines,2020,Asia,Purchasing Power Index,23.48
+Sri Lanka,2020,Asia,Purchasing Power Index,24.45
+Iran,2020,Asia,Purchasing Power Index,22.69
+Kenya,2020,Africa,Purchasing Power Index,27.32
+Bangladesh,2020,Asia,Purchasing Power Index,33.21
+Nigeria,2020,Africa,Purchasing Power Index,13.52
+Denmark,2019,Europe,Purchasing Power Index,114.39
+Switzerland,2019,Europe,Purchasing Power Index,129.7
+Finland,2019,Europe,Purchasing Power Index,112.3
+Australia,2019,Oceania,Purchasing Power Index,122.85
+Austria,2019,Europe,Purchasing Power Index,96.7
+Netherlands,2019,Europe,Purchasing Power Index,102.54
+Iceland,2019,Europe,Purchasing Power Index,91.8
+Germany,2019,Europe,Purchasing Power Index,116.2
+New Zealand,2019,Oceania,Purchasing Power Index,101.09
+Norway,2019,Europe,Purchasing Power Index,103.61
+Estonia,2019,Europe,Purchasing Power Index,75.97
+Japan,2019,Asia,Purchasing Power Index,103.12
+United States of America,2019,Americas,Purchasing Power Index,122.03
+Sweden,2019,Europe,Purchasing Power Index,111.38
+Slovenia,2019,Europe,Purchasing Power Index,75.38
+Spain,2019,Europe,Purchasing Power Index,83.8
+United Kingdom,2019,Europe,Purchasing Power Index,105.73
+Canada,2019,Americas,Purchasing Power Index,109.44
+Qatar,2019,Asia,Purchasing Power Index,138.29
+United Arab Emirates,2019,Asia,Purchasing Power Index,119.6
+Croatia,2019,Europe,Purchasing Power Index,60.33
+Portugal,2019,Europe,Purchasing Power Index,55.19
+Belgium,2019,Europe,Purchasing Power Index,95.09
+Ireland,2019,Europe,Purchasing Power Index,95.09
+Czech Republic,2019,Europe,Purchasing Power Index,71.32
+France,2019,Europe,Purchasing Power Index,91.55
+Cyprus,2019,Asia,Purchasing Power Index,75.29
+Singapore,2019,Asia,Purchasing Power Index,103.77
+Lithuania,2019,Europe,Purchasing Power Index,60.34
+Israel,2019,Asia,Purchasing Power Index,92.48
+Slovakia,2019,Europe,Purchasing Power Index,63.24
+Saudi Arabia,2019,Asia,Purchasing Power Index,118.59
+South Korea,2019,Asia,Purchasing Power Index,103.4
+Latvia,2019,Europe,Purchasing Power Index,55.16
+Poland,2019,Europe,Purchasing Power Index,70
+Italy,2019,Europe,Purchasing Power Index,77.49
+Belarus,2019,Europe,Purchasing Power Index,44.64
+Romania,2019,Europe,Purchasing Power Index,61.16
+Greece,2019,Europe,Purchasing Power Index,49.57
+South Africa,2019,Africa,Purchasing Power Index,82.97
+Hungary,2019,Europe,Purchasing Power Index,54.66
+Taiwan,2019,Asia,Purchasing Power Index,56.36
+Bulgaria,2019,Europe,Purchasing Power Index,52.18
+Turkey,2019,Asia,Purchasing Power Index,45.33
+Bosnia And Herzegovina,2019,Europe,Purchasing Power Index,49.18
+Chile,2019,Americas,Purchasing Power Index,54.13
+Mexico,2019,Americas,Purchasing Power Index,49.98
+Argentina,2019,Americas,Purchasing Power Index,55
+Malaysia,2019,Asia,Purchasing Power Index,73.14
+Georgia,2019,Asia,Purchasing Power Index,33.19
+Serbia,2019,Europe,Purchasing Power Index,39.9
+India,2019,Asia,Purchasing Power Index,66.91
+Panama,2019,Americas,Purchasing Power Index,41.34
+Jordan,2019,Asia,Purchasing Power Index,41.73
+Lebanon,2019,Asia,Purchasing Power Index,53.97
+North Macedonia,2019,Europe,Purchasing Power Index,39.83
+Colombia,2019,Americas,Purchasing Power Index,34.66
+Indonesia,2019,Asia,Purchasing Power Index,32.95
+Russian Federation,2019,Europe,Purchasing Power Index,45.38
+Pakistan,2019,Asia,Purchasing Power Index,38.61
+Thailand,2019,Asia,Purchasing Power Index,40.86
+Ukraine,2019,Europe,Purchasing Power Index,32.72
+Hong Kong,2019,Asia,Purchasing Power Index,69.34
+Brazil,2019,Americas,Purchasing Power Index,37.43
+China,2019,Asia,Purchasing Power Index,68.95
+Sri Lanka,2019,Asia,Purchasing Power Index,27.34
+Philippines,2019,Asia,Purchasing Power Index,29.46
+Vietnam,2019,Asia,Purchasing Power Index,33.33
+Kazakhstan,2019,Asia,Purchasing Power Index,38.83
+Iran,2019,Asia,Purchasing Power Index,37.74
+Egypt,2019,Africa,Purchasing Power Index,23.67
+Denmark,2018,Europe,Purchasing Power Index,117.53
+Finland,2018,Europe,Purchasing Power Index,119.42
+Netherlands,2018,Europe,Purchasing Power Index,109.48
+Switzerland,2018,Europe,Purchasing Power Index,126.15
+Austria,2018,Europe,Purchasing Power Index,98.69
+Germany,2018,Europe,Purchasing Power Index,125.01
+Australia,2018,Oceania,Purchasing Power Index,122.98
+New Zealand,2018,Oceania,Purchasing Power Index,98.61
+United States of America,2018,Americas,Purchasing Power Index,127.62
+Sweden,2018,Europe,Purchasing Power Index,113.01
+Estonia,2018,Europe,Purchasing Power Index,74.82
+Norway,2018,Europe,Purchasing Power Index,107.95
+Japan,2018,Asia,Purchasing Power Index,107.35
+Slovenia,2018,Europe,Purchasing Power Index,80.33
+Spain,2018,Europe,Purchasing Power Index,90.67
+Canada,2018,Americas,Purchasing Power Index,118.92
+United Kingdom,2018,Europe,Purchasing Power Index,108.54
+Portugal,2018,Europe,Purchasing Power Index,61.97
+France,2018,Europe,Purchasing Power Index,101.21
+Belgium,2018,Europe,Purchasing Power Index,98.91
+United Arab Emirates,2018,Asia,Purchasing Power Index,124.78
+Ireland,2018,Europe,Purchasing Power Index,96.1
+Taiwan,2018,Asia,Purchasing Power Index,106.38
+Croatia,2018,Europe,Purchasing Power Index,59.77
+Czech Republic,2018,Europe,Purchasing Power Index,76.35
+Qatar,2018,Asia,Purchasing Power Index,125.05
+South Korea,2018,Asia,Purchasing Power Index,109.36
+Slovakia,2018,Europe,Purchasing Power Index,67.29
+Israel,2018,Asia,Purchasing Power Index,102.3
+Singapore,2018,Asia,Purchasing Power Index,95.89
+Saudi Arabia,2018,Asia,Purchasing Power Index,131.46
+Lithuania,2018,Europe,Purchasing Power Index,57.29
+Poland,2018,Europe,Purchasing Power Index,74.42
+Italy,2018,Europe,Purchasing Power Index,81.07
+Romania,2018,Europe,Purchasing Power Index,66.2
+South Africa,2018,Africa,Purchasing Power Index,99.83
+Greece,2018,Europe,Purchasing Power Index,53.8
+Hungary,2018,Europe,Purchasing Power Index,50.62
+Argentina,2018,Americas,Purchasing Power Index,60.15
+Bulgaria,2018,Europe,Purchasing Power Index,54.44
+Bosnia And Herzegovina,2018,Europe,Purchasing Power Index,52.4
+Turkey,2018,Asia,Purchasing Power Index,53.78
+Mexico,2018,Americas,Purchasing Power Index,58.18
+Serbia,2018,Europe,Purchasing Power Index,41.81
+Chile,2018,Americas,Purchasing Power Index,54.53
+India,2018,Asia,Purchasing Power Index,79.27
+Malaysia,2018,Asia,Purchasing Power Index,72.98
+Indonesia,2018,Asia,Purchasing Power Index,37.49
+Colombia,2018,Americas,Purchasing Power Index,38.59
+Hong Kong,2018,Asia,Purchasing Power Index,82.86
+Russian Federation,2018,Europe,Purchasing Power Index,51.11
+Thailand,2018,Asia,Purchasing Power Index,38.59
+Pakistan,2018,Asia,Purchasing Power Index,41.11
+Brazil,2018,Americas,Purchasing Power Index,41.55
+China,2018,Asia,Purchasing Power Index,72.28
+Philippines,2018,Asia,Purchasing Power Index,34.02
+Ukraine,2018,Europe,Purchasing Power Index,30.24
+Iran,2018,Asia,Purchasing Power Index,45.6
+Egypt,2018,Africa,Purchasing Power Index,24.67
+Vietnam,2018,Asia,Purchasing Power Index,30.09
+Austria,2017,Europe,Purchasing Power Index,95.66
+Germany,2017,Europe,Purchasing Power Index,124.88
+Denmark,2017,Europe,Purchasing Power Index,98.76
+New Zealand,2017,Oceania,Purchasing Power Index,89.87
+Spain,2017,Europe,Purchasing Power Index,87.87
+Finland,2017,Europe,Purchasing Power Index,114.97
+United States of America,2017,Americas,Purchasing Power Index,123.17
+Portugal,2017,Europe,Purchasing Power Index,62.72
+Australia,2017,Oceania,Purchasing Power Index,101.94
+Slovenia,2017,Europe,Purchasing Power Index,78.23
+Netherlands,2017,Europe,Purchasing Power Index,86.52
+Switzerland,2017,Europe,Purchasing Power Index,95.35
+United Kingdom,2017,Europe,Purchasing Power Index,96.85
+Sweden,2017,Europe,Purchasing Power Index,107.23
+Estonia,2017,Europe,Purchasing Power Index,68.48
+Croatia,2017,Europe,Purchasing Power Index,60.71
+Canada,2017,Americas,Purchasing Power Index,108.01
+Ireland,2017,Europe,Purchasing Power Index,103.52
+Cyprus,2017,Asia,Purchasing Power Index,95.92
+Norway,2017,Europe,Purchasing Power Index,105.58
+Czech Republic,2017,Europe,Purchasing Power Index,76.22
+South Korea,2017,Asia,Purchasing Power Index,102.38
+Belgium,2017,Europe,Purchasing Power Index,91.02
+France,2017,Europe,Purchasing Power Index,87.29
+Israel,2017,Asia,Purchasing Power Index,94.47
+Slovakia,2017,Europe,Purchasing Power Index,64.75
+Poland,2017,Europe,Purchasing Power Index,71.75
+Taiwan,2017,Asia,Purchasing Power Index,118.57
+Greece,2017,Europe,Purchasing Power Index,58.24
+Japan,2017,Asia,Purchasing Power Index,102.52
+Saudi Arabia,2017,Asia,Purchasing Power Index,138.05
+South Africa,2017,Africa,Purchasing Power Index,98.96
+Romania,2017,Europe,Purchasing Power Index,53.44
+Italy,2017,Europe,Purchasing Power Index,71.83
+Argentina,2017,Americas,Purchasing Power Index,58.4
+United Arab Emirates,2017,Asia,Purchasing Power Index,116.77
+Bosnia And Herzegovina,2017,Europe,Purchasing Power Index,51.29
+Hungary,2017,Europe,Purchasing Power Index,47.52
+Bulgaria,2017,Europe,Purchasing Power Index,51.4
+Chile,2017,Americas,Purchasing Power Index,61.28
+Serbia,2017,Europe,Purchasing Power Index,40.8
+Qatar,2017,Asia,Purchasing Power Index,111.28
+Lithuania,2017,Europe,Purchasing Power Index,51.67
+Turkey,2017,Asia,Purchasing Power Index,55.64
+Mexico,2017,Americas,Purchasing Power Index,60.08
+Belarus,2017,Europe,Purchasing Power Index,36.43
+Jordan,2017,Asia,Purchasing Power Index,42.27
+North Macedonia,2017,Europe,Purchasing Power Index,39.85
+Colombia,2017,Americas,Purchasing Power Index,37.63
+Lebanon,2017,Asia,Purchasing Power Index,53.61
+India,2017,Asia,Purchasing Power Index,76.73
+Iran,2017,Asia,Purchasing Power Index,43.18
+Brazil,2017,Americas,Purchasing Power Index,42.38
+Hong Kong,2017,Asia,Purchasing Power Index,81.45
+Pakistan,2017,Asia,Purchasing Power Index,39.95
+Egypt,2017,Africa,Purchasing Power Index,29.39
+China,2017,Asia,Purchasing Power Index,67.84
+Sri Lanka,2017,Asia,Purchasing Power Index,30.28
+Ukraine,2017,Europe,Purchasing Power Index,26.93
+Singapore,2017,Asia,Purchasing Power Index,92.7
+Russian Federation,2017,Europe,Purchasing Power Index,48.27
+Indonesia,2017,Asia,Purchasing Power Index,27.61
+Thailand,2017,Asia,Purchasing Power Index,34.28
+Philippines,2017,Asia,Purchasing Power Index,36
+Malaysia,2017,Asia,Purchasing Power Index,73.34
+Vietnam,2017,Asia,Purchasing Power Index,24.77
+Venezuela,2017,Americas,Purchasing Power Index,3.35
+Switzerland,2016,Europe,Purchasing Power Index,178.74
+Denmark,2016,Europe,Purchasing Power Index,142.14
+New Zealand,2016,Oceania,Purchasing Power Index,115.47
+Germany,2016,Europe,Purchasing Power Index,147.61
+Australia,2016,Oceania,Purchasing Power Index,147.25
+Austria,2016,Europe,Purchasing Power Index,120.46
+Netherlands,2016,Europe,Purchasing Power Index,129.34
+Norway,2016,Europe,Purchasing Power Index,125.75
+Spain,2016,Europe,Purchasing Power Index,105.31
+Sweden,2016,Europe,Purchasing Power Index,128.22
+Finland,2016,Europe,Purchasing Power Index,132.93
+United States of America,2016,Americas,Purchasing Power Index,139.17
+Portugal,2016,Europe,Purchasing Power Index,75.47
+United Kingdom,2016,Europe,Purchasing Power Index,120
+Canada,2016,Americas,Purchasing Power Index,134.81
+Japan,2016,Asia,Purchasing Power Index,117.55
+Slovenia,2016,Europe,Purchasing Power Index,89.76
+France,2016,Europe,Purchasing Power Index,118.51
+Croatia,2016,Europe,Purchasing Power Index,67.89
+Ireland,2016,Europe,Purchasing Power Index,125.66
+South Korea,2016,Asia,Purchasing Power Index,120.64
+Czech Republic,2016,Europe,Purchasing Power Index,89.99
+Israel,2016,Asia,Purchasing Power Index,115.54
+Greece,2016,Europe,Purchasing Power Index,79.27
+Belgium,2016,Europe,Purchasing Power Index,106.69
+Italy,2016,Europe,Purchasing Power Index,105.67
+Saudi Arabia,2016,Asia,Purchasing Power Index,167.86
+South Africa,2016,Africa,Purchasing Power Index,126.1
+Poland,2016,Europe,Purchasing Power Index,80.77
+Chile,2016,Americas,Purchasing Power Index,78.4
+Bosnia And Herzegovina,2016,Europe,Purchasing Power Index,60.64
+Romania,2016,Europe,Purchasing Power Index,61.9
+United Arab Emirates,2016,Asia,Purchasing Power Index,136.43
+Bulgaria,2016,Europe,Purchasing Power Index,59.19
+Hungary,2016,Europe,Purchasing Power Index,56.3
+Argentina,2016,Americas,Purchasing Power Index,74.92
+Serbia,2016,Europe,Purchasing Power Index,49.62
+Turkey,2016,Asia,Purchasing Power Index,64.12
+Mexico,2016,Americas,Purchasing Power Index,76.51
+Lithuania,2016,Europe,Purchasing Power Index,61.25
+Colombia,2016,Americas,Purchasing Power Index,45.99
+North Macedonia,2016,Europe,Purchasing Power Index,46.74
+India,2016,Asia,Purchasing Power Index,89.65
+Hong Kong,2016,Asia,Purchasing Power Index,102.32
+Brazil,2016,Americas,Purchasing Power Index,48.69
+China,2016,Asia,Purchasing Power Index,77.42
+Iran,2016,Asia,Purchasing Power Index,47.73
+Pakistan,2016,Asia,Purchasing Power Index,43.34
+Singapore,2016,Asia,Purchasing Power Index,110.5
+Egypt,2016,Africa,Purchasing Power Index,40.3
+Russian Federation,2016,Europe,Purchasing Power Index,57.42
+Ukraine,2016,Europe,Purchasing Power Index,29.66
+Indonesia,2016,Asia,Purchasing Power Index,35.51
+Philippines,2016,Asia,Purchasing Power Index,42.86
+Thailand,2016,Asia,Purchasing Power Index,40.06
+Malaysia,2016,Asia,Purchasing Power Index,96.34
+Switzerland,2015,Europe,Purchasing Power Index,146.51
+Germany,2015,Europe,Purchasing Power Index,111.84
+Sweden,2015,Europe,Purchasing Power Index,110.95
+United States of America,2015,Americas,Purchasing Power Index,126.09
+Finland,2015,Europe,Purchasing Power Index,101.17
+Denmark,2015,Europe,Purchasing Power Index,105.7
+Austria,2015,Europe,Purchasing Power Index,104.55
+Australia,2015,Oceania,Purchasing Power Index,110.39
+Canada,2015,Americas,Purchasing Power Index,105.07
+New Zealand,2015,Oceania,Purchasing Power Index,90.99
+Norway,2015,Europe,Purchasing Power Index,96.3
+Saudi Arabia,2015,Asia,Purchasing Power Index,126.19
+Japan,2015,Asia,Purchasing Power Index,98.21
+Netherlands,2015,Europe,Purchasing Power Index,102.02
+Turkmenistan,2015,Asia,Purchasing Power Index,59.75
+United Kingdom,2015,Europe,Purchasing Power Index,98.12
+Cyprus,2015,Asia,Purchasing Power Index,71.05
+United Arab Emirates,2015,Asia,Purchasing Power Index,104.59
+Ireland,2015,Europe,Purchasing Power Index,95.72
+Qatar,2015,Asia,Purchasing Power Index,113.02
+Estonia,2015,Europe,Purchasing Power Index,51.44
+France,2015,Europe,Purchasing Power Index,92.62
+Belgium,2015,Europe,Purchasing Power Index,86.16
+Spain,2015,Europe,Purchasing Power Index,76.71
+Slovenia,2015,Europe,Purchasing Power Index,64.16
+Portugal,2015,Europe,Purchasing Power Index,58.22
+Czech Republic,2015,Europe,Purchasing Power Index,68.07
+Puerto Rico,2015,Americas,Purchasing Power Index,94.43
+Kuwait,2015,Asia,Purchasing Power Index,85.7
+Israel,2015,Asia,Purchasing Power Index,88.18
+South Korea,2015,Asia,Purchasing Power Index,85.83
+Lithuania,2015,Europe,Purchasing Power Index,46.86
+Croatia,2015,Europe,Purchasing Power Index,50.47
+Singapore,2015,Asia,Purchasing Power Index,75.4
+South Africa,2015,Africa,Purchasing Power Index,101.78
+Poland,2015,Europe,Purchasing Power Index,63.49
+Slovakia,2015,Europe,Purchasing Power Index,56.05
+Italy,2015,Europe,Purchasing Power Index,79.35
+Latvia,2015,Europe,Purchasing Power Index,44.39
+Greece,2015,Europe,Purchasing Power Index,51.89
+Hungary,2015,Europe,Purchasing Power Index,46.85
+Uruguay,2015,Americas,Purchasing Power Index,44.87
+Taiwan,2015,Asia,Purchasing Power Index,69.9
+Panama,2015,Americas,Purchasing Power Index,43.34
+Malaysia,2015,Asia,Purchasing Power Index,73.54
+Mexico,2015,Americas,Purchasing Power Index,59.51
+Bahrain,2015,Asia,Purchasing Power Index,59.69
+Romania,2015,Europe,Purchasing Power Index,40.62
+Hong Kong,2015,Asia,Purchasing Power Index,74.93
+Turkey,2015,Asia,Purchasing Power Index,53.63
+India,2015,Asia,Purchasing Power Index,65.79
+Argentina,2015,Americas,Purchasing Power Index,59.38
+Bosnia And Herzegovina,2015,Europe,Purchasing Power Index,44.74
+Belarus,2015,Europe,Purchasing Power Index,35.82
+Bulgaria,2015,Europe,Purchasing Power Index,39.88
+Chile,2015,Americas,Purchasing Power Index,55.11
+Georgia,2015,Asia,Purchasing Power Index,26.21
+Serbia,2015,Europe,Purchasing Power Index,39.15
+Sri Lanka,2015,Asia,Purchasing Power Index,28.24
+Armenia,2015,Asia,Purchasing Power Index,27.74
+Colombia,2015,Americas,Purchasing Power Index,36.08
+Thailand,2015,Asia,Purchasing Power Index,38.75
+Kazakhstan,2015,Asia,Purchasing Power Index,43.48
+Ecuador,2015,Americas,Purchasing Power Index,28
+Dominican Republic,2015,Americas,Purchasing Power Index,28.2
+Jordan,2015,Asia,Purchasing Power Index,38.67
+Philippines,2015,Asia,Purchasing Power Index,35.41
+Lebanon,2015,Asia,Purchasing Power Index,50.17
+Brazil,2015,Americas,Purchasing Power Index,41.16
+North Macedonia,2015,Europe,Purchasing Power Index,35.48
+Russian Federation,2015,Europe,Purchasing Power Index,38.86
+Indonesia,2015,Asia,Purchasing Power Index,26.01
+Pakistan,2015,Asia,Purchasing Power Index,33.21
+Ukraine,2015,Europe,Purchasing Power Index,27.87
+China,2015,Asia,Purchasing Power Index,48.64
+Kenya,2015,Africa,Purchasing Power Index,28.74
+Nigeria,2015,Africa,Purchasing Power Index,40.23
+Iran,2015,Asia,Purchasing Power Index,30.65
+Cambodia,2015,Asia,Purchasing Power Index,11.93
+Bangladesh,2015,Asia,Purchasing Power Index,33.43
+Egypt,2015,Africa,Purchasing Power Index,25.84
+Vietnam,2015,Asia,Purchasing Power Index,21.32
+Mongolia,2015,Asia,Purchasing Power Index,23.5
+Venezuela,2015,Americas,Purchasing Power Index,11.9
+Switzerland,2014,Europe,Purchasing Power Index,138.05
+United States of America,2014,Americas,Purchasing Power Index,132.91
+Germany,2014,Europe,Purchasing Power Index,112.28
+Sweden,2014,Europe,Purchasing Power Index,106.11
+Finland,2014,Europe,Purchasing Power Index,97.9
+Denmark,2014,Europe,Purchasing Power Index,100.66
+Canada,2014,Americas,Purchasing Power Index,105.53
+Australia,2014,Oceania,Purchasing Power Index,104.2
+United Arab Emirates,2014,Asia,Purchasing Power Index,110.64
+Austria,2014,Europe,Purchasing Power Index,91.53
+New Zealand,2014,Oceania,Purchasing Power Index,87.58
+Japan,2014,Asia,Purchasing Power Index,99.64
+Norway,2014,Europe,Purchasing Power Index,94.4
+Netherlands,2014,Europe,Purchasing Power Index,97.54
+United Kingdom,2014,Europe,Purchasing Power Index,94.34
+Estonia,2014,Europe,Purchasing Power Index,48.67
+Ireland,2014,Europe,Purchasing Power Index,94.64
+Kuwait,2014,Asia,Purchasing Power Index,92.46
+Saudi Arabia,2014,Asia,Purchasing Power Index,100.03
+France,2014,Europe,Purchasing Power Index,92.29
+Belgium,2014,Europe,Purchasing Power Index,87.93
+Slovenia,2014,Europe,Purchasing Power Index,60.36
+Portugal,2014,Europe,Purchasing Power Index,54.65
+Puerto Rico,2014,Americas,Purchasing Power Index,85.28
+Spain,2014,Europe,Purchasing Power Index,72.48
+Czech Republic,2014,Europe,Purchasing Power Index,62.32
+Lithuania,2014,Europe,Purchasing Power Index,43.24
+South Korea,2014,Asia,Purchasing Power Index,80.63
+Taiwan,2014,Asia,Purchasing Power Index,82.31
+South Africa,2014,Africa,Purchasing Power Index,95.97
+Slovakia,2014,Europe,Purchasing Power Index,52.41
+Croatia,2014,Europe,Purchasing Power Index,48.32
+Poland,2014,Europe,Purchasing Power Index,57.6
+Uruguay,2014,Americas,Purchasing Power Index,39.64
+Israel,2014,Asia,Purchasing Power Index,69.29
+Italy,2014,Europe,Purchasing Power Index,75.39
+Malaysia,2014,Asia,Purchasing Power Index,70.46
+Singapore,2014,Asia,Purchasing Power Index,64.11
+Mexico,2014,Americas,Purchasing Power Index,60.46
+Hungary,2014,Europe,Purchasing Power Index,44.89
+Argentina,2014,Americas,Purchasing Power Index,57.08
+India,2014,Asia,Purchasing Power Index,62.33
+Greece,2014,Europe,Purchasing Power Index,44.27
+Bosnia And Herzegovina,2014,Europe,Purchasing Power Index,44.52
+Belarus,2014,Europe,Purchasing Power Index,33.93
+Hong Kong,2014,Asia,Purchasing Power Index,71.39
+Chile,2014,Americas,Purchasing Power Index,58.27
+Serbia,2014,Europe,Purchasing Power Index,37.39
+Turkey,2014,Asia,Purchasing Power Index,55.79
+Romania,2014,Europe,Purchasing Power Index,36.51
+Bulgaria,2014,Europe,Purchasing Power Index,37.39
+Thailand,2014,Asia,Purchasing Power Index,36.96
+Ecuador,2014,Americas,Purchasing Power Index,27.03
+Kazakhstan,2014,Asia,Purchasing Power Index,37.29
+Jordan,2014,Asia,Purchasing Power Index,38.3
+Brazil,2014,Americas,Purchasing Power Index,43.29
+Colombia,2014,Americas,Purchasing Power Index,33.45
+China,2014,Asia,Purchasing Power Index,43.73
+Philippines,2014,Asia,Purchasing Power Index,29.97
+Pakistan,2014,Asia,Purchasing Power Index,31.53
+Ukraine,2014,Europe,Purchasing Power Index,31
+Indonesia,2014,Asia,Purchasing Power Index,26.44
+Lebanon,2014,Asia,Purchasing Power Index,41.86
+Russian Federation,2014,Europe,Purchasing Power Index,37.3
+Egypt,2014,Africa,Purchasing Power Index,25.57
+Iran,2014,Asia,Purchasing Power Index,30.33
+Mongolia,2014,Asia,Purchasing Power Index,25.59
+Venezuela,2014,Americas,Purchasing Power Index,17.87
+Switzerland,2013,Europe,Purchasing Power Index,138.2
+Germany,2013,Europe,Purchasing Power Index,118
+United States of America,2013,Americas,Purchasing Power Index,138.38
+Sweden,2013,Europe,Purchasing Power Index,108.25
+Canada,2013,Americas,Purchasing Power Index,111.04
+United Arab Emirates,2013,Asia,Purchasing Power Index,123.85
+Denmark,2013,Europe,Purchasing Power Index,104.58
+Norway,2013,Europe,Purchasing Power Index,97.29
+Qatar,2013,Asia,Purchasing Power Index,140.57
+Austria,2013,Europe,Purchasing Power Index,88.57
+Finland,2013,Europe,Purchasing Power Index,95.65
+Australia,2013,Oceania,Purchasing Power Index,104.18
+New Zealand,2013,Oceania,Purchasing Power Index,85.55
+Netherlands,2013,Europe,Purchasing Power Index,94.93
+Japan,2013,Asia,Purchasing Power Index,87.68
+Estonia,2013,Europe,Purchasing Power Index,54.02
+France,2013,Europe,Purchasing Power Index,99.18
+Ireland,2013,Europe,Purchasing Power Index,91.68
+United Kingdom,2013,Europe,Purchasing Power Index,90.54
+Belgium,2013,Europe,Purchasing Power Index,95.48
+Spain,2013,Europe,Purchasing Power Index,83.67
+Saudi Arabia,2013,Asia,Purchasing Power Index,116.1
+South Korea,2013,Asia,Purchasing Power Index,95.57
+Slovenia,2013,Europe,Purchasing Power Index,60.1
+South Africa,2013,Africa,Purchasing Power Index,107.37
+Czech Republic,2013,Europe,Purchasing Power Index,64.46
+Taiwan,2013,Asia,Purchasing Power Index,74.17
+Portugal,2013,Europe,Purchasing Power Index,54.59
+Puerto Rico,2013,Americas,Purchasing Power Index,95.73
+Slovakia,2013,Europe,Purchasing Power Index,54.24
+Lithuania,2013,Europe,Purchasing Power Index,42.79
+Israel,2013,Asia,Purchasing Power Index,73.52
+Hong Kong,2013,Asia,Purchasing Power Index,81.17
+Poland,2013,Europe,Purchasing Power Index,55.56
+Croatia,2013,Europe,Purchasing Power Index,52.07
+Mexico,2013,Americas,Purchasing Power Index,60.67
+Italy,2013,Europe,Purchasing Power Index,75.76
+Panama,2013,Americas,Purchasing Power Index,37.69
+Hungary,2013,Europe,Purchasing Power Index,43.45
+Malaysia,2013,Asia,Purchasing Power Index,71.79
+Uruguay,2013,Americas,Purchasing Power Index,38.14
+Turkey,2013,Asia,Purchasing Power Index,57.26
+India,2013,Asia,Purchasing Power Index,62.71
+Chile,2013,Americas,Purchasing Power Index,58.03
+Argentina,2013,Americas,Purchasing Power Index,51.09
+Bosnia And Herzegovina,2013,Europe,Purchasing Power Index,47.34
+Singapore,2013,Asia,Purchasing Power Index,60.86
+Serbia,2013,Europe,Purchasing Power Index,37.01
+Romania,2013,Europe,Purchasing Power Index,36.35
+Greece,2013,Europe,Purchasing Power Index,50.31
+Thailand,2013,Asia,Purchasing Power Index,35.44
+Bulgaria,2013,Europe,Purchasing Power Index,38.01
+Brazil,2013,Americas,Purchasing Power Index,41.44
+Ecuador,2013,Americas,Purchasing Power Index,25.99
+Georgia,2013,Asia,Purchasing Power Index,29
+Colombia,2013,Americas,Purchasing Power Index,29.44
+Ukraine,2013,Europe,Purchasing Power Index,32.3
+China,2013,Asia,Purchasing Power Index,42.41
+Philippines,2013,Asia,Purchasing Power Index,25.98
+Russian Federation,2013,Europe,Purchasing Power Index,39.6
+Mongolia,2013,Asia,Purchasing Power Index,28.4
+Lebanon,2013,Asia,Purchasing Power Index,44.15
+Pakistan,2013,Asia,Purchasing Power Index,26.38
+Egypt,2013,Africa,Purchasing Power Index,27.41
+Iran,2013,Asia,Purchasing Power Index,35.75
+Indonesia,2013,Asia,Purchasing Power Index,24.61
+Venezuela,2013,Americas,Purchasing Power Index,18.71
+Switzerland,2012,Europe,Purchasing Power Index,127.42
+Germany,2012,Europe,Purchasing Power Index,114.22
+Norway,2012,Europe,Purchasing Power Index,94.21
+United Arab Emirates,2012,Asia,Purchasing Power Index,134.89
+New Zealand,2012,Oceania,Purchasing Power Index,88.59
+Sweden,2012,Europe,Purchasing Power Index,99.33
+Canada,2012,Americas,Purchasing Power Index,110.72
+Denmark,2012,Europe,Purchasing Power Index,99.26
+Australia,2012,Oceania,Purchasing Power Index,108.67
+Austria,2012,Europe,Purchasing Power Index,98.78
+Netherlands,2012,Europe,Purchasing Power Index,93.65
+United States of America,2012,Americas,Purchasing Power Index,118.75
+Japan,2012,Asia,Purchasing Power Index,83.62
+Ireland,2012,Europe,Purchasing Power Index,84.79
+Slovenia,2012,Europe,Purchasing Power Index,57.17
+France,2012,Europe,Purchasing Power Index,90.9
+Israel,2012,Asia,Purchasing Power Index,73.81
+United Kingdom,2012,Europe,Purchasing Power Index,89.77
+Portugal,2012,Europe,Purchasing Power Index,56.85
+Spain,2012,Europe,Purchasing Power Index,86.18
+Belgium,2012,Europe,Purchasing Power Index,84.58
+Croatia,2012,Europe,Purchasing Power Index,50.65
+Czech Republic,2012,Europe,Purchasing Power Index,58.43
+Singapore,2012,Asia,Purchasing Power Index,91.24
+South Africa,2012,Africa,Purchasing Power Index,99.97
+Saudi Arabia,2012,Asia,Purchasing Power Index,80.41
+Turkey,2012,Asia,Purchasing Power Index,52.76
+Malaysia,2012,Asia,Purchasing Power Index,72.13
+Poland,2012,Europe,Purchasing Power Index,58.88
+Mexico,2012,Americas,Purchasing Power Index,59.33
+Italy,2012,Europe,Purchasing Power Index,67.73
+Hungary,2012,Europe,Purchasing Power Index,38.08
+India,2012,Asia,Purchasing Power Index,62.05
+Indonesia,2012,Asia,Purchasing Power Index,20.09
+Serbia,2012,Europe,Purchasing Power Index,31.08
+Argentina,2012,Americas,Purchasing Power Index,40.48
+Bulgaria,2012,Europe,Purchasing Power Index,34.73
+Bosnia And Herzegovina,2012,Europe,Purchasing Power Index,42.86
+Romania,2012,Europe,Purchasing Power Index,33.16
+Thailand,2012,Asia,Purchasing Power Index,33.42
+Colombia,2012,Americas,Purchasing Power Index,28.95
+Greece,2012,Europe,Purchasing Power Index,44.99
+Chile,2012,Americas,Purchasing Power Index,51.02
+Brazil,2012,Americas,Purchasing Power Index,31.73
+Pakistan,2012,Asia,Purchasing Power Index,26.24
+Philippines,2012,Asia,Purchasing Power Index,28.37
+Russian Federation,2012,Europe,Purchasing Power Index,44.05
+Ukraine,2012,Europe,Purchasing Power Index,27.22
+Egypt,2012,Africa,Purchasing Power Index,27.17
+Iran,2012,Asia,Purchasing Power Index,46.38
+China,2012,Asia,Purchasing Power Index,33.5
+Switzerland,2022,Europe,Safety Index,77.88
+Denmark,2022,Europe,Safety Index,73.66
+Netherlands,2022,Europe,Safety Index,72.43
+Australia,2022,Oceania,Safety Index,55.17
+Finland,2022,Europe,Safety Index,73.16
+Iceland,2022,Europe,Safety Index,75.7
+Norway,2022,Europe,Safety Index,66.49
+Germany,2022,Europe,Safety Index,62.99
+Austria,2022,Europe,Safety Index,73.18
+New Zealand,2022,Oceania,Safety Index,55.39
+United Arab Emirates,2022,Asia,Safety Index,85.13
+Estonia,2022,Europe,Safety Index,75.86
+Luxembourg,2022,Europe,Safety Index,64.42
+Sweden,2022,Europe,Safety Index,51.23
+Spain,2022,Europe,Safety Index,65.03
+Japan,2022,Asia,Safety Index,77.76
+Oman,2022,Asia,Safety Index,80.28
+Slovenia,2022,Europe,Safety Index,76.83
+United States of America,2022,Americas,Safety Index,51.59
+United Kingdom,2022,Europe,Safety Index,53.38
+Czech Republic,2022,Europe,Safety Index,74.22
+Canada,2022,Americas,Safety Index,56.37
+Lithuania,2022,Europe,Safety Index,67.45
+Croatia,2022,Europe,Safety Index,76.01
+Portugal,2022,Europe,Safety Index,68.47
+Belgium,2022,Europe,Safety Index,53.29
+Qatar,2022,Asia,Safety Index,85.85
+Singapore,2022,Asia,Safety Index,72.78
+France,2022,Europe,Safety Index,45.61
+Latvia,2022,Europe,Safety Index,61.51
+Ireland,2022,Europe,Safety Index,54.13
+Slovakia,2022,Europe,Safety Index,69.46
+Saudi Arabia,2022,Asia,Safety Index,75.38
+Cyprus,2022,Asia,Safety Index,68.94
+Israel,2022,Asia,Safety Index,67.82
+Taiwan,2022,Asia,Safety Index,83.85
+Italy,2022,Europe,Safety Index,53.76
+South Africa,2022,Africa,Safety Index,24.63
+Hungary,2022,Europe,Safety Index,66.09
+Poland,2022,Europe,Safety Index,67.87
+Puerto Rico,2022,Americas,Safety Index,38.23
+Romania,2022,Europe,Safety Index,67.5
+South Korea,2022,Asia,Safety Index,73.87
+Bosnia And Herzegovina,2022,Europe,Safety Index,57.29
+Bulgaria,2022,Europe,Safety Index,61.63
+Greece,2022,Europe,Safety Index,52.03
+Mexico,2022,Americas,Safety Index,46.1
+India,2022,Asia,Safety Index,55.43
+Costa Rica,2022,Americas,Safety Index,46.14
+Uruguay,2022,Americas,Safety Index,47.87
+Malaysia,2022,Asia,Safety Index,45.63
+Serbia,2022,Europe,Safety Index,61.82
+Ecuador,2022,Americas,Safety Index,42.13
+Turkey,2022,Asia,Safety Index,60.11
+Georgia,2022,Asia,Safety Index,74.75
+Kuwait,2022,Asia,Safety Index,66.99
+Tunisia,2022,Africa,Safety Index,56.06
+Panama,2022,Americas,Safety Index,56.39
+Jordan,2022,Asia,Safety Index,58.99
+Ukraine,2022,Europe,Safety Index,53.43
+Argentina,2022,Americas,Safety Index,35.91
+North Macedonia,2022,Europe,Safety Index,59.03
+Belarus,2022,Europe,Safety Index,42.82
+Azerbaijan,2022,Asia,Safety Index,68.27
+Morocco,2022,Africa,Safety Index,52.63
+Malta,2022,Europe,Safety Index,56.28
+Brazil,2022,Americas,Safety Index,33.21
+Hong Kong,2022,Asia,Safety Index,78.38
+Russian Federation,2022,Europe,Safety Index,60.68
+Pakistan,2022,Asia,Safety Index,58.44
+Colombia,2022,Americas,Safety Index,41.29
+Chile,2022,Americas,Safety Index,43.49
+Thailand,2022,Asia,Safety Index,61.08
+Lebanon,2022,Asia,Safety Index,53.41
+Indonesia,2022,Asia,Safety Index,53.94
+Kazakhstan,2022,Asia,Safety Index,46.96
+China,2022,Asia,Safety Index,71.18
+Egypt,2022,Africa,Safety Index,53.39
+Kenya,2022,Africa,Safety Index,43.67
+Vietnam,2022,Asia,Safety Index,54.24
+Philippines,2022,Asia,Safety Index,57.64
+Peru,2022,Americas,Safety Index,32.76
+Venezuela,2022,Americas,Safety Index,16.84
+Iran,2022,Asia,Safety Index,50.25
+Sri Lanka,2022,Asia,Safety Index,59.03
+Bangladesh,2022,Asia,Safety Index,36.94
+Nigeria,2022,Africa,Safety Index,35.91
+Switzerland,2021,Europe,Safety Index,78.65
+Denmark,2021,Europe,Safety Index,73.28
+Netherlands,2021,Europe,Safety Index,72.78
+Finland,2021,Europe,Safety Index,72.99
+Austria,2021,Europe,Safety Index,74.77
+Australia,2021,Oceania,Safety Index,57.56
+Iceland,2021,Europe,Safety Index,75.87
+Germany,2021,Europe,Safety Index,64.58
+New Zealand,2021,Oceania,Safety Index,57.74
+Norway,2021,Europe,Safety Index,66.65
+Estonia,2021,Europe,Safety Index,76.62
+Oman,2021,Asia,Safety Index,79.74
+Sweden,2021,Europe,Safety Index,52.8
+Slovenia,2021,Europe,Safety Index,78.21
+United States of America,2021,Americas,Safety Index,52.26
+Spain,2021,Europe,Safety Index,66.87
+Japan,2021,Asia,Safety Index,78.05
+Portugal,2021,Europe,Safety Index,70.11
+Lithuania,2021,Europe,Safety Index,66.16
+Canada,2021,Americas,Safety Index,58.81
+United Kingdom,2021,Europe,Safety Index,54.74
+Czech Republic,2021,Europe,Safety Index,74.69
+Croatia,2021,Europe,Safety Index,75.09
+United Arab Emirates,2021,Asia,Safety Index,84.65
+Qatar,2021,Asia,Safety Index,87.71
+Belgium,2021,Europe,Safety Index,55.83
+Ireland,2021,Europe,Safety Index,54.98
+France,2021,Europe,Safety Index,50.8
+Slovakia,2021,Europe,Safety Index,70.26
+Latvia,2021,Europe,Safety Index,62.79
+Saudi Arabia,2021,Asia,Safety Index,74.07
+Israel,2021,Asia,Safety Index,68.79
+Cyprus,2021,Asia,Safety Index,68.03
+Singapore,2021,Asia,Safety Index,67.02
+Taiwan,2021,Asia,Safety Index,84.76
+Italy,2021,Europe,Safety Index,55.63
+Hungary,2021,Europe,Safety Index,65.19
+Poland,2021,Europe,Safety Index,70.68
+South Africa,2021,Africa,Safety Index,22.93
+Romania,2021,Europe,Safety Index,71.65
+Puerto Rico,2021,Americas,Safety Index,36.65
+South Korea,2021,Asia,Safety Index,73.14
+Greece,2021,Europe,Safety Index,55.86
+Bulgaria,2021,Europe,Safety Index,61.88
+Turkey,2021,Asia,Safety Index,60.47
+Bosnia And Herzegovina,2021,Europe,Safety Index,56.99
+Uruguay,2021,Americas,Safety Index,48.78
+Costa Rica,2021,Americas,Safety Index,44.66
+Mexico,2021,Americas,Safety Index,45
+Georgia,2021,Asia,Safety Index,77.38
+Ecuador,2021,Americas,Safety Index,45.59
+Malaysia,2021,Asia,Safety Index,42.11
+Serbia,2021,Europe,Safety Index,61.74
+Jordan,2021,Asia,Safety Index,59.27
+Kuwait,2021,Asia,Safety Index,65.96
+Argentina,2021,Americas,Safety Index,36.69
+Panama,2021,Americas,Safety Index,54.15
+North Macedonia,2021,Europe,Safety Index,61.41
+Ukraine,2021,Europe,Safety Index,51.72
+Belarus,2021,Europe,Safety Index,39.73
+Pakistan,2021,Asia,Safety Index,56.14
+Brazil,2021,Americas,Safety Index,32.15
+India,2021,Asia,Safety Index,55.28
+Morocco,2021,Africa,Safety Index,50.9
+China,2021,Asia,Safety Index,69.83
+Azerbaijan,2021,Asia,Safety Index,68.34
+Russian Federation,2021,Europe,Safety Index,59.87
+Colombia,2021,Americas,Safety Index,44.23
+Thailand,2021,Asia,Safety Index,60.62
+Chile,2021,Americas,Safety Index,47.92
+Hong Kong,2021,Asia,Safety Index,78.27
+Kazakhstan,2021,Asia,Safety Index,45.98
+Lebanon,2021,Asia,Safety Index,53.04
+Indonesia,2021,Asia,Safety Index,53.77
+Vietnam,2021,Asia,Safety Index,53.91
+Egypt,2021,Africa,Safety Index,53.21
+Peru,2021,Americas,Safety Index,33.39
+Sri Lanka,2021,Asia,Safety Index,58.81
+Philippines,2021,Asia,Safety Index,57.84
+Kenya,2021,Africa,Safety Index,38.6
+Bangladesh,2021,Asia,Safety Index,35.78
+Iran,2021,Asia,Safety Index,50.81
+Nigeria,2021,Africa,Safety Index,36.14
+Denmark,2020,Europe,Safety Index,74.9
+Switzerland,2020,Europe,Safety Index,78.4
+Finland,2020,Europe,Safety Index,76.68
+Australia,2020,Oceania,Safety Index,58.64
+Netherlands,2020,Europe,Safety Index,72.38
+Austria,2020,Europe,Safety Index,76.27
+Iceland,2020,Europe,Safety Index,76.64
+New Zealand,2020,Oceania,Safety Index,59.07
+Germany,2020,Europe,Safety Index,65.19
+Estonia,2020,Europe,Safety Index,76.86
+Sweden,2020,Europe,Safety Index,52.93
+Norway,2020,Europe,Safety Index,64.57
+Slovenia,2020,Europe,Safety Index,78.93
+United States of America,2020,Americas,Safety Index,52.8
+Spain,2020,Europe,Safety Index,68.04
+Japan,2020,Asia,Safety Index,79.34
+Oman,2020,Asia,Safety Index,79.21
+Canada,2020,Americas,Safety Index,60.33
+Portugal,2020,Europe,Safety Index,70.37
+United Kingdom,2020,Europe,Safety Index,56.29
+Qatar,2020,Asia,Safety Index,88.14
+Lithuania,2020,Europe,Safety Index,66.94
+Croatia,2020,Europe,Safety Index,75.29
+United Arab Emirates,2020,Asia,Safety Index,84.3
+Czech Republic,2020,Europe,Safety Index,74.48
+France,2020,Europe,Safety Index,53.21
+Ireland,2020,Europe,Safety Index,54.57
+Belgium,2020,Europe,Safety Index,56.02
+Slovakia,2020,Europe,Safety Index,70.78
+Saudi Arabia,2020,Asia,Safety Index,73.82
+Latvia,2020,Europe,Safety Index,63.05
+Israel,2020,Asia,Safety Index,70.4
+Cyprus,2020,Asia,Safety Index,69.99
+Singapore,2020,Asia,Safety Index,69.43
+Taiwan,2020,Asia,Safety Index,84.35
+Poland,2020,Europe,Safety Index,71.5
+Italy,2020,Europe,Safety Index,55.74
+South Korea,2020,Asia,Safety Index,71.98
+Belarus,2020,Europe,Safety Index,75.01
+Greece,2020,Europe,Safety Index,59.68
+Romania,2020,Europe,Safety Index,72.36
+South Africa,2020,Africa,Safety Index,22.51
+Bulgaria,2020,Europe,Safety Index,61.5
+Hungary,2020,Europe,Safety Index,64.92
+Turkey,2020,Asia,Safety Index,60.51
+Uruguay,2020,Americas,Safety Index,46.19
+Ecuador,2020,Americas,Safety Index,49.1
+Bosnia And Herzegovina,2020,Europe,Safety Index,56.97
+Chile,2020,Americas,Safety Index,54.77
+Mexico,2020,Americas,Safety Index,46.03
+Malaysia,2020,Asia,Safety Index,41.16
+Serbia,2020,Europe,Safety Index,62.59
+Georgia,2020,Asia,Safety Index,79.79
+Kuwait,2020,Asia,Safety Index,65.25
+Argentina,2020,Americas,Safety Index,38.23
+Jordan,2020,Asia,Safety Index,59.17
+North Macedonia,2020,Europe,Safety Index,61.33
+India,2020,Asia,Safety Index,56.68
+Panama,2020,Americas,Safety Index,52.81
+Lebanon,2020,Asia,Safety Index,56.64
+Colombia,2020,Americas,Safety Index,45.21
+Brazil,2020,Americas,Safety Index,31.12
+Morocco,2020,Africa,Safety Index,51.31
+Pakistan,2020,Asia,Safety Index,55.92
+Ukraine,2020,Europe,Safety Index,51.15
+China,2020,Asia,Safety Index,68.17
+Russian Federation,2020,Europe,Safety Index,58.88
+Thailand,2020,Asia,Safety Index,59.52
+Hong Kong,2020,Asia,Safety Index,79.3
+Indonesia,2020,Asia,Safety Index,54.16
+Kazakhstan,2020,Asia,Safety Index,37.98
+Vietnam,2020,Asia,Safety Index,54.65
+Egypt,2020,Africa,Safety Index,53.08
+Peru,2020,Americas,Safety Index,31.85
+Philippines,2020,Asia,Safety Index,57.84
+Sri Lanka,2020,Asia,Safety Index,59.78
+Iran,2020,Asia,Safety Index,50.75
+Kenya,2020,Africa,Safety Index,38.34
+Bangladesh,2020,Asia,Safety Index,36.06
+Nigeria,2020,Africa,Safety Index,36.23
+Denmark,2019,Europe,Safety Index,75.75
+Switzerland,2019,Europe,Safety Index,78.5
+Finland,2019,Europe,Safety Index,77.2
+Australia,2019,Oceania,Safety Index,57.24
+Austria,2019,Europe,Safety Index,78.63
+Netherlands,2019,Europe,Safety Index,71.43
+Iceland,2019,Europe,Safety Index,76.72
+Germany,2019,Europe,Safety Index,65.49
+New Zealand,2019,Oceania,Safety Index,60.45
+Norway,2019,Europe,Safety Index,64.68
+Estonia,2019,Europe,Safety Index,79.2
+Japan,2019,Asia,Safety Index,86.27
+United States of America,2019,Americas,Safety Index,52.87
+Sweden,2019,Europe,Safety Index,50.65
+Slovenia,2019,Europe,Safety Index,77.43
+Spain,2019,Europe,Safety Index,67.54
+United Kingdom,2019,Europe,Safety Index,57.28
+Canada,2019,Americas,Safety Index,60.49
+Qatar,2019,Asia,Safety Index,86.74
+United Arab Emirates,2019,Asia,Safety Index,83.68
+Croatia,2019,Europe,Safety Index,75.31
+Portugal,2019,Europe,Safety Index,67.87
+Belgium,2019,Europe,Safety Index,57.54
+Ireland,2019,Europe,Safety Index,55.48
+Czech Republic,2019,Europe,Safety Index,73.34
+France,2019,Europe,Safety Index,53.61
+Cyprus,2019,Asia,Safety Index,70.69
+Singapore,2019,Asia,Safety Index,78.53
+Lithuania,2019,Europe,Safety Index,63.49
+Israel,2019,Asia,Safety Index,67.84
+Slovakia,2019,Europe,Safety Index,70.46
+Saudi Arabia,2019,Asia,Safety Index,70.27
+South Korea,2019,Asia,Safety Index,65.95
+Latvia,2019,Europe,Safety Index,63.23
+Poland,2019,Europe,Safety Index,69.91
+Italy,2019,Europe,Safety Index,54.98
+Belarus,2019,Europe,Safety Index,76.47
+Romania,2019,Europe,Safety Index,72.16
+Greece,2019,Europe,Safety Index,61.43
+South Africa,2019,Africa,Safety Index,23.2
+Hungary,2019,Europe,Safety Index,64.83
+Taiwan,2019,Asia,Safety Index,82.62
+Bulgaria,2019,Europe,Safety Index,60
+Turkey,2019,Asia,Safety Index,59.62
+Bosnia And Herzegovina,2019,Europe,Safety Index,56.21
+Chile,2019,Americas,Safety Index,53.19
+Mexico,2019,Americas,Safety Index,47.7
+Argentina,2019,Americas,Safety Index,37.45
+Malaysia,2019,Asia,Safety Index,39.21
+Georgia,2019,Asia,Safety Index,80.14
+Serbia,2019,Europe,Safety Index,62.73
+India,2019,Asia,Safety Index,57.28
+Panama,2019,Americas,Safety Index,53.57
+Jordan,2019,Asia,Safety Index,56.18
+Lebanon,2019,Asia,Safety Index,55.73
+North Macedonia,2019,Europe,Safety Index,60.71
+Colombia,2019,Americas,Safety Index,48.74
+Indonesia,2019,Asia,Safety Index,53.99
+Russian Federation,2019,Europe,Safety Index,58.07
+Pakistan,2019,Asia,Safety Index,53.27
+Thailand,2019,Asia,Safety Index,53.34
+Ukraine,2019,Europe,Safety Index,51.12
+Hong Kong,2019,Asia,Safety Index,80.68
+Brazil,2019,Americas,Safety Index,29.76
+China,2019,Asia,Safety Index,54.54
+Sri Lanka,2019,Asia,Safety Index,58.97
+Philippines,2019,Asia,Safety Index,59.17
+Vietnam,2019,Asia,Safety Index,51.22
+Kazakhstan,2019,Asia,Safety Index,33.49
+Iran,2019,Asia,Safety Index,50.67
+Egypt,2019,Africa,Safety Index,49.29
+Denmark,2018,Europe,Safety Index,77.98
+Finland,2018,Europe,Safety Index,76.3
+Netherlands,2018,Europe,Safety Index,71.06
+Switzerland,2018,Europe,Safety Index,78.24
+Austria,2018,Europe,Safety Index,79.59
+Germany,2018,Europe,Safety Index,63.35
+Australia,2018,Oceania,Safety Index,57.45
+New Zealand,2018,Oceania,Safety Index,60.85
+United States of America,2018,Americas,Safety Index,50.42
+Sweden,2018,Europe,Safety Index,50.74
+Estonia,2018,Europe,Safety Index,79.17
+Norway,2018,Europe,Safety Index,56.67
+Japan,2018,Asia,Safety Index,86.9
+Slovenia,2018,Europe,Safety Index,75.29
+Spain,2018,Europe,Safety Index,63.26
+Canada,2018,Americas,Safety Index,60.72
+United Kingdom,2018,Europe,Safety Index,58.8
+Portugal,2018,Europe,Safety Index,65.46
+France,2018,Europe,Safety Index,54.71
+Belgium,2018,Europe,Safety Index,57.83
+United Arab Emirates,2018,Asia,Safety Index,81.25
+Ireland,2018,Europe,Safety Index,56.18
+Taiwan,2018,Asia,Safety Index,79.26
+Croatia,2018,Europe,Safety Index,73
+Czech Republic,2018,Europe,Safety Index,71.19
+Qatar,2018,Asia,Safety Index,84.3
+South Korea,2018,Asia,Safety Index,64.17
+Slovakia,2018,Europe,Safety Index,69.85
+Israel,2018,Asia,Safety Index,63.1
+Singapore,2018,Asia,Safety Index,83.77
+Saudi Arabia,2018,Asia,Safety Index,63.31
+Lithuania,2018,Europe,Safety Index,62.41
+Poland,2018,Europe,Safety Index,63.77
+Italy,2018,Europe,Safety Index,55.47
+Romania,2018,Europe,Safety Index,70.96
+South Africa,2018,Africa,Safety Index,24.29
+Greece,2018,Europe,Safety Index,60.93
+Hungary,2018,Europe,Safety Index,63.49
+Argentina,2018,Americas,Safety Index,38.21
+Bulgaria,2018,Europe,Safety Index,60.3
+Bosnia And Herzegovina,2018,Europe,Safety Index,59.95
+Turkey,2018,Asia,Safety Index,58.94
+Mexico,2018,Americas,Safety Index,48.95
+Serbia,2018,Europe,Safety Index,62.24
+Chile,2018,Americas,Safety Index,53.52
+India,2018,Asia,Safety Index,55.84
+Malaysia,2018,Asia,Safety Index,36.95
+Indonesia,2018,Asia,Safety Index,55.28
+Colombia,2018,Americas,Safety Index,49.34
+Hong Kong,2018,Asia,Safety Index,79.1
+Russian Federation,2018,Europe,Safety Index,54.8
+Thailand,2018,Asia,Safety Index,52.75
+Pakistan,2018,Asia,Safety Index,48.77
+Brazil,2018,Americas,Safety Index,29.45
+China,2018,Asia,Safety Index,60.56
+Philippines,2018,Asia,Safety Index,59.87
+Ukraine,2018,Europe,Safety Index,50.61
+Iran,2018,Asia,Safety Index,50.6
+Egypt,2018,Africa,Safety Index,46.28
+Vietnam,2018,Asia,Safety Index,47.78
+Austria,2017,Europe,Safety Index,80.75
+Germany,2017,Europe,Safety Index,67.97
+Denmark,2017,Europe,Safety Index,78.87
+New Zealand,2017,Oceania,Safety Index,61.22
+Spain,2017,Europe,Safety Index,68.72
+Finland,2017,Europe,Safety Index,75.37
+United States of America,2017,Americas,Safety Index,51.24
+Portugal,2017,Europe,Safety Index,64.61
+Australia,2017,Oceania,Safety Index,57.58
+Slovenia,2017,Europe,Safety Index,75.95
+Netherlands,2017,Europe,Safety Index,70.11
+Switzerland,2017,Europe,Safety Index,77.55
+United Kingdom,2017,Europe,Safety Index,58.81
+Sweden,2017,Europe,Safety Index,53.35
+Estonia,2017,Europe,Safety Index,77
+Croatia,2017,Europe,Safety Index,72.2
+Canada,2017,Americas,Safety Index,60.75
+Ireland,2017,Europe,Safety Index,54.23
+Cyprus,2017,Asia,Safety Index,67.54
+Norway,2017,Europe,Safety Index,54.31
+Czech Republic,2017,Europe,Safety Index,69.82
+South Korea,2017,Asia,Safety Index,74.73
+Belgium,2017,Europe,Safety Index,55.49
+France,2017,Europe,Safety Index,56.34
+Israel,2017,Asia,Safety Index,70.99
+Slovakia,2017,Europe,Safety Index,69.82
+Poland,2017,Europe,Safety Index,68.47
+Taiwan,2017,Asia,Safety Index,82.76
+Greece,2017,Europe,Safety Index,59.68
+Japan,2017,Asia,Safety Index,79.11
+Saudi Arabia,2017,Asia,Safety Index,76.35
+South Africa,2017,Africa,Safety Index,24.28
+Romania,2017,Europe,Safety Index,72.05
+Italy,2017,Europe,Safety Index,55.34
+Argentina,2017,Americas,Safety Index,37.37
+United Arab Emirates,2017,Asia,Safety Index,79.34
+Bosnia And Herzegovina,2017,Europe,Safety Index,59.03
+Hungary,2017,Europe,Safety Index,61.61
+Bulgaria,2017,Europe,Safety Index,59.82
+Chile,2017,Americas,Safety Index,52.5
+Serbia,2017,Europe,Safety Index,61.38
+Qatar,2017,Asia,Safety Index,84.3
+Lithuania,2017,Europe,Safety Index,59.97
+Turkey,2017,Asia,Safety Index,58.91
+Mexico,2017,Americas,Safety Index,49.68
+Belarus,2017,Europe,Safety Index,77.74
+Jordan,2017,Asia,Safety Index,56.86
+North Macedonia,2017,Europe,Safety Index,61.34
+Colombia,2017,Americas,Safety Index,48.31
+Lebanon,2017,Asia,Safety Index,50.84
+India,2017,Asia,Safety Index,56.04
+Iran,2017,Asia,Safety Index,49.1
+Brazil,2017,Americas,Safety Index,29.38
+Hong Kong,2017,Asia,Safety Index,79.32
+Pakistan,2017,Asia,Safety Index,45.62
+Egypt,2017,Africa,Safety Index,47.14
+China,2017,Asia,Safety Index,66.1
+Sri Lanka,2017,Asia,Safety Index,65.43
+Ukraine,2017,Europe,Safety Index,48.73
+Singapore,2017,Asia,Safety Index,83.42
+Russian Federation,2017,Europe,Safety Index,53.95
+Indonesia,2017,Asia,Safety Index,50.32
+Thailand,2017,Asia,Safety Index,50.22
+Philippines,2017,Asia,Safety Index,60.23
+Malaysia,2017,Asia,Safety Index,35.25
+Vietnam,2017,Asia,Safety Index,47.04
+Venezuela,2017,Americas,Safety Index,14.72
+Switzerland,2016,Europe,Safety Index,74.27
+Denmark,2016,Europe,Safety Index,74.33
+New Zealand,2016,Oceania,Safety Index,63.63
+Germany,2016,Europe,Safety Index,67.05
+Australia,2016,Oceania,Safety Index,56.88
+Austria,2016,Europe,Safety Index,75.94
+Netherlands,2016,Europe,Safety Index,68.53
+Norway,2016,Europe,Safety Index,69.89
+Spain,2016,Europe,Safety Index,68.23
+Sweden,2016,Europe,Safety Index,56.88
+Finland,2016,Europe,Safety Index,71.88
+United States of America,2016,Americas,Safety Index,51.13
+Portugal,2016,Europe,Safety Index,64.87
+United Kingdom,2016,Europe,Safety Index,56.87
+Canada,2016,Americas,Safety Index,60.8
+Japan,2016,Asia,Safety Index,80.66
+Slovenia,2016,Europe,Safety Index,73.73
+France,2016,Europe,Safety Index,55.94
+Croatia,2016,Europe,Safety Index,70.49
+Ireland,2016,Europe,Safety Index,51.61
+South Korea,2016,Asia,Safety Index,85.69
+Czech Republic,2016,Europe,Safety Index,67.94
+Israel,2016,Asia,Safety Index,69.37
+Greece,2016,Europe,Safety Index,61.54
+Belgium,2016,Europe,Safety Index,54.81
+Italy,2016,Europe,Safety Index,53.78
+Saudi Arabia,2016,Asia,Safety Index,74.8
+South Africa,2016,Africa,Safety Index,21.57
+Poland,2016,Europe,Safety Index,68.59
+Chile,2016,Americas,Safety Index,58
+Bosnia And Herzegovina,2016,Europe,Safety Index,57.54
+Romania,2016,Europe,Safety Index,70.28
+United Arab Emirates,2016,Asia,Safety Index,76.92
+Bulgaria,2016,Europe,Safety Index,58.58
+Hungary,2016,Europe,Safety Index,58.07
+Argentina,2016,Americas,Safety Index,36.72
+Serbia,2016,Europe,Safety Index,56.72
+Turkey,2016,Asia,Safety Index,60.57
+Mexico,2016,Americas,Safety Index,49.2
+Lithuania,2016,Europe,Safety Index,56.85
+Colombia,2016,Americas,Safety Index,51.49
+North Macedonia,2016,Europe,Safety Index,61.98
+India,2016,Asia,Safety Index,53.41
+Hong Kong,2016,Asia,Safety Index,79.15
+Brazil,2016,Americas,Safety Index,28.77
+China,2016,Asia,Safety Index,67.92
+Iran,2016,Asia,Safety Index,47.63
+Pakistan,2016,Asia,Safety Index,43.37
+Singapore,2016,Asia,Safety Index,84.19
+Egypt,2016,Africa,Safety Index,43.47
+Russian Federation,2016,Europe,Safety Index,52.69
+Ukraine,2016,Europe,Safety Index,51.38
+Indonesia,2016,Asia,Safety Index,53.03
+Philippines,2016,Asia,Safety Index,62.39
+Thailand,2016,Asia,Safety Index,57.44
+Malaysia,2016,Asia,Safety Index,31.45
+Switzerland,2015,Europe,Safety Index,73.23
+Germany,2015,Europe,Safety Index,71.51
+Sweden,2015,Europe,Safety Index,57.91
+United States of America,2015,Americas,Safety Index,49.99
+Finland,2015,Europe,Safety Index,70.45
+Denmark,2015,Europe,Safety Index,74.29
+Austria,2015,Europe,Safety Index,73.75
+Australia,2015,Oceania,Safety Index,57.84
+Canada,2015,Americas,Safety Index,62.54
+New Zealand,2015,Oceania,Safety Index,60.24
+Norway,2015,Europe,Safety Index,68.81
+Saudi Arabia,2015,Asia,Safety Index,65.43
+Japan,2015,Asia,Safety Index,79.76
+Netherlands,2015,Europe,Safety Index,64.59
+Turkmenistan,2015,Asia,Safety Index,82.14
+United Kingdom,2015,Europe,Safety Index,57.99
+Cyprus,2015,Asia,Safety Index,68.44
+United Arab Emirates,2015,Asia,Safety Index,77.78
+Ireland,2015,Europe,Safety Index,50.93
+Qatar,2015,Asia,Safety Index,78.96
+Estonia,2015,Europe,Safety Index,71.87
+France,2015,Europe,Safety Index,50.29
+Belgium,2015,Europe,Safety Index,57.96
+Spain,2015,Europe,Safety Index,66.15
+Slovenia,2015,Europe,Safety Index,71.29
+Portugal,2015,Europe,Safety Index,64.16
+Czech Republic,2015,Europe,Safety Index,67.11
+Puerto Rico,2015,Americas,Safety Index,32.94
+Kuwait,2015,Asia,Safety Index,56.49
+Israel,2015,Asia,Safety Index,69.6
+South Korea,2015,Asia,Safety Index,82.01
+Lithuania,2015,Europe,Safety Index,63.31
+Croatia,2015,Europe,Safety Index,70.66
+Singapore,2015,Asia,Safety Index,82.41
+South Africa,2015,Africa,Safety Index,21.56
+Poland,2015,Europe,Safety Index,67.01
+Slovakia,2015,Europe,Safety Index,66.66
+Italy,2015,Europe,Safety Index,52.5
+Latvia,2015,Europe,Safety Index,62.78
+Greece,2015,Europe,Safety Index,58.65
+Hungary,2015,Europe,Safety Index,58.24
+Uruguay,2015,Americas,Safety Index,52.83
+Taiwan,2015,Asia,Safety Index,78.12
+Panama,2015,Americas,Safety Index,49.92
+Malaysia,2015,Asia,Safety Index,30.03
+Mexico,2015,Americas,Safety Index,46.16
+Bahrain,2015,Asia,Safety Index,60.03
+Romania,2015,Europe,Safety Index,70.28
+Hong Kong,2015,Asia,Safety Index,80.76
+Turkey,2015,Asia,Safety Index,63.6
+India,2015,Asia,Safety Index,53.45
+Argentina,2015,Americas,Safety Index,37.6
+Bosnia And Herzegovina,2015,Europe,Safety Index,54.18
+Belarus,2015,Europe,Safety Index,69.5
+Bulgaria,2015,Europe,Safety Index,56.55
+Chile,2015,Americas,Safety Index,54.99
+Georgia,2015,Asia,Safety Index,77.99
+Serbia,2015,Europe,Safety Index,56.57
+Sri Lanka,2015,Asia,Safety Index,50.04
+Armenia,2015,Asia,Safety Index,70.86
+Colombia,2015,Americas,Safety Index,43.12
+Thailand,2015,Asia,Safety Index,62.94
+Kazakhstan,2015,Asia,Safety Index,53.32
+Ecuador,2015,Americas,Safety Index,45.96
+Dominican Republic,2015,Americas,Safety Index,32.28
+Jordan,2015,Asia,Safety Index,54.49
+Philippines,2015,Asia,Safety Index,56.89
+Lebanon,2015,Asia,Safety Index,48.02
+Brazil,2015,Americas,Safety Index,31.05
+North Macedonia,2015,Europe,Safety Index,63.94
+Russian Federation,2015,Europe,Safety Index,48.67
+Indonesia,2015,Asia,Safety Index,52.78
+Pakistan,2015,Asia,Safety Index,38.84
+Ukraine,2015,Europe,Safety Index,50.64
+China,2015,Asia,Safety Index,58.25
+Kenya,2015,Africa,Safety Index,27.39
+Nigeria,2015,Africa,Safety Index,23.4
+Iran,2015,Asia,Safety Index,49.1
+Cambodia,2015,Asia,Safety Index,55.94
+Bangladesh,2015,Asia,Safety Index,35.75
+Egypt,2015,Africa,Safety Index,39.86
+Vietnam,2015,Asia,Safety Index,47.71
+Mongolia,2015,Asia,Safety Index,29.75
+Venezuela,2015,Americas,Safety Index,15.93
+Switzerland,2014,Europe,Safety Index,68.21
+United States of America,2014,Americas,Safety Index,49.85
+Germany,2014,Europe,Safety Index,72.86
+Sweden,2014,Europe,Safety Index,61.72
+Finland,2014,Europe,Safety Index,70.84
+Denmark,2014,Europe,Safety Index,70.73
+Canada,2014,Americas,Safety Index,63.71
+Australia,2014,Oceania,Safety Index,58.77
+United Arab Emirates,2014,Asia,Safety Index,79.21
+Austria,2014,Europe,Safety Index,74.17
+New Zealand,2014,Oceania,Safety Index,57.15
+Japan,2014,Asia,Safety Index,81.9
+Norway,2014,Europe,Safety Index,66.27
+Netherlands,2014,Europe,Safety Index,62.93
+United Kingdom,2014,Europe,Safety Index,57.38
+Estonia,2014,Europe,Safety Index,70.93
+Ireland,2014,Europe,Safety Index,46.41
+Kuwait,2014,Asia,Safety Index,63.56
+Saudi Arabia,2014,Asia,Safety Index,70.62
+France,2014,Europe,Safety Index,52.72
+Belgium,2014,Europe,Safety Index,58.47
+Slovenia,2014,Europe,Safety Index,66.79
+Portugal,2014,Europe,Safety Index,64.94
+Puerto Rico,2014,Americas,Safety Index,40.7
+Spain,2014,Europe,Safety Index,67.58
+Czech Republic,2014,Europe,Safety Index,66.12
+Lithuania,2014,Europe,Safety Index,65.29
+South Korea,2014,Asia,Safety Index,83.65
+Taiwan,2014,Asia,Safety Index,78.53
+South Africa,2014,Africa,Safety Index,21.47
+Slovakia,2014,Europe,Safety Index,67.28
+Croatia,2014,Europe,Safety Index,71.1
+Poland,2014,Europe,Safety Index,62.47
+Uruguay,2014,Americas,Safety Index,53.36
+Israel,2014,Asia,Safety Index,66.72
+Italy,2014,Europe,Safety Index,54.41
+Malaysia,2014,Asia,Safety Index,33.59
+Singapore,2014,Asia,Safety Index,78.65
+Mexico,2014,Americas,Safety Index,47.54
+Hungary,2014,Europe,Safety Index,62.48
+Argentina,2014,Americas,Safety Index,42.52
+India,2014,Asia,Safety Index,56.3
+Greece,2014,Europe,Safety Index,56.95
+Bosnia And Herzegovina,2014,Europe,Safety Index,55.02
+Belarus,2014,Europe,Safety Index,67.11
+Hong Kong,2014,Asia,Safety Index,77.32
+Chile,2014,Americas,Safety Index,52.91
+Serbia,2014,Europe,Safety Index,60.72
+Turkey,2014,Asia,Safety Index,60.05
+Romania,2014,Europe,Safety Index,71.27
+Bulgaria,2014,Europe,Safety Index,59.98
+Thailand,2014,Asia,Safety Index,62.44
+Ecuador,2014,Americas,Safety Index,40.03
+Kazakhstan,2014,Asia,Safety Index,50.59
+Jordan,2014,Asia,Safety Index,52.42
+Brazil,2014,Americas,Safety Index,33
+Colombia,2014,Americas,Safety Index,41.46
+China,2014,Asia,Safety Index,69.87
+Philippines,2014,Asia,Safety Index,58.1
+Pakistan,2014,Asia,Safety Index,36.25
+Ukraine,2014,Europe,Safety Index,50.63
+Indonesia,2014,Asia,Safety Index,53.33
+Lebanon,2014,Asia,Safety Index,49.9
+Russian Federation,2014,Europe,Safety Index,47.33
+Egypt,2014,Africa,Safety Index,47.57
+Iran,2014,Asia,Safety Index,44.99
+Mongolia,2014,Asia,Safety Index,33.77
+Venezuela,2014,Americas,Safety Index,18.5
+Switzerland,2013,Europe,Safety Index,72.42
+Germany,2013,Europe,Safety Index,76.14
+United States of America,2013,Americas,Safety Index,46.56
+Sweden,2013,Europe,Safety Index,68.19
+Canada,2013,Americas,Safety Index,65.02
+United Arab Emirates,2013,Asia,Safety Index,81.99
+Denmark,2013,Europe,Safety Index,69.26
+Norway,2013,Europe,Safety Index,74.39
+Qatar,2013,Asia,Safety Index,73.83
+Austria,2013,Europe,Safety Index,69.56
+Finland,2013,Europe,Safety Index,67.31
+Australia,2013,Oceania,Safety Index,55.56
+New Zealand,2013,Oceania,Safety Index,58.21
+Netherlands,2013,Europe,Safety Index,62.47
+Japan,2013,Asia,Safety Index,86.89
+Estonia,2013,Europe,Safety Index,75.77
+France,2013,Europe,Safety Index,48.87
+Ireland,2013,Europe,Safety Index,55.05
+United Kingdom,2013,Europe,Safety Index,60.22
+Belgium,2013,Europe,Safety Index,57.05
+Spain,2013,Europe,Safety Index,65.88
+Saudi Arabia,2013,Asia,Safety Index,68.26
+South Korea,2013,Asia,Safety Index,82.6
+Slovenia,2013,Europe,Safety Index,70.4
+South Africa,2013,Africa,Safety Index,23.32
+Czech Republic,2013,Europe,Safety Index,65.88
+Taiwan,2013,Asia,Safety Index,83.74
+Portugal,2013,Europe,Safety Index,65.04
+Puerto Rico,2013,Americas,Safety Index,29.47
+Slovakia,2013,Europe,Safety Index,64.84
+Lithuania,2013,Europe,Safety Index,65.39
+Israel,2013,Asia,Safety Index,51.74
+Hong Kong,2013,Asia,Safety Index,83.43
+Poland,2013,Europe,Safety Index,61.07
+Croatia,2013,Europe,Safety Index,67.75
+Mexico,2013,Americas,Safety Index,43.77
+Italy,2013,Europe,Safety Index,50.54
+Panama,2013,Americas,Safety Index,51.54
+Hungary,2013,Europe,Safety Index,66.28
+Malaysia,2013,Asia,Safety Index,32.25
+Uruguay,2013,Americas,Safety Index,55.03
+Turkey,2013,Asia,Safety Index,64.8
+India,2013,Asia,Safety Index,57.88
+Chile,2013,Americas,Safety Index,59.72
+Argentina,2013,Americas,Safety Index,40.71
+Bosnia And Herzegovina,2013,Europe,Safety Index,56.74
+Singapore,2013,Asia,Safety Index,80.02
+Serbia,2013,Europe,Safety Index,58.77
+Romania,2013,Europe,Safety Index,69.98
+Greece,2013,Europe,Safety Index,50.24
+Thailand,2013,Asia,Safety Index,59.47
+Bulgaria,2013,Europe,Safety Index,58.53
+Brazil,2013,Americas,Safety Index,37.38
+Ecuador,2013,Americas,Safety Index,40.26
+Georgia,2013,Asia,Safety Index,80.43
+Colombia,2013,Americas,Safety Index,45.84
+Ukraine,2013,Europe,Safety Index,51.05
+China,2013,Asia,Safety Index,73.13
+Philippines,2013,Asia,Safety Index,45.06
+Russian Federation,2013,Europe,Safety Index,47.61
+Mongolia,2013,Asia,Safety Index,53.13
+Lebanon,2013,Asia,Safety Index,52.69
+Pakistan,2013,Asia,Safety Index,38.48
+Egypt,2013,Africa,Safety Index,51.33
+Iran,2013,Asia,Safety Index,43.85
+Indonesia,2013,Asia,Safety Index,59.51
+Venezuela,2013,Americas,Safety Index,14.3
+Switzerland,2012,Europe,Safety Index,74.22
+Germany,2012,Europe,Safety Index,78.8
+Norway,2012,Europe,Safety Index,80.93
+United Arab Emirates,2012,Asia,Safety Index,64.05
+New Zealand,2012,Oceania,Safety Index,53.19
+Sweden,2012,Europe,Safety Index,63.76
+Canada,2012,Americas,Safety Index,60.18
+Denmark,2012,Europe,Safety Index,54.69
+Australia,2012,Oceania,Safety Index,59.38
+Austria,2012,Europe,Safety Index,55.92
+Netherlands,2012,Europe,Safety Index,71.6
+United States of America,2012,Americas,Safety Index,35.07
+Japan,2012,Asia,Safety Index,94.25
+Ireland,2012,Europe,Safety Index,53.93
+Slovenia,2012,Europe,Safety Index,64.29
+France,2012,Europe,Safety Index,55.24
+Israel,2012,Asia,Safety Index,59.22
+United Kingdom,2012,Europe,Safety Index,53.96
+Portugal,2012,Europe,Safety Index,59.36
+Spain,2012,Europe,Safety Index,67.04
+Belgium,2012,Europe,Safety Index,59.38
+Croatia,2012,Europe,Safety Index,67.58
+Czech Republic,2012,Europe,Safety Index,63.41
+Singapore,2012,Asia,Safety Index,79.79
+South Africa,2012,Africa,Safety Index,21.88
+Saudi Arabia,2012,Asia,Safety Index,67.52
+Turkey,2012,Asia,Safety Index,73.62
+Malaysia,2012,Asia,Safety Index,29.12
+Poland,2012,Europe,Safety Index,61.3
+Mexico,2012,Americas,Safety Index,37.46
+Italy,2012,Europe,Safety Index,43.33
+Hungary,2012,Europe,Safety Index,69.53
+India,2012,Asia,Safety Index,54.36
+Indonesia,2012,Asia,Safety Index,76.13
+Serbia,2012,Europe,Safety Index,71.3
+Argentina,2012,Americas,Safety Index,51.62
+Bulgaria,2012,Europe,Safety Index,58.63
+Bosnia And Herzegovina,2012,Europe,Safety Index,59.69
+Romania,2012,Europe,Safety Index,70.41
+Thailand,2012,Asia,Safety Index,60.33
+Colombia,2012,Americas,Safety Index,52.79
+Greece,2012,Europe,Safety Index,47.97
+Chile,2012,Americas,Safety Index,43.65
+Brazil,2012,Americas,Safety Index,40.74
+Pakistan,2012,Asia,Safety Index,41.29
+Philippines,2012,Asia,Safety Index,46.91
+Russian Federation,2012,Europe,Safety Index,49.43
+Ukraine,2012,Europe,Safety Index,44.61
+Egypt,2012,Africa,Safety Index,55.69
+Iran,2012,Asia,Safety Index,48.14
+China,2012,Asia,Safety Index,55.53
+Switzerland,2022,Europe,Traffic Commute Time Index,28.37
+Denmark,2022,Europe,Traffic Commute Time Index,28.41
+Netherlands,2022,Europe,Traffic Commute Time Index,26.63
+Australia,2022,Oceania,Traffic Commute Time Index,34.68
+Finland,2022,Europe,Traffic Commute Time Index,27.58
+Iceland,2022,Europe,Traffic Commute Time Index,19.96
+Norway,2022,Europe,Traffic Commute Time Index,26.87
+Germany,2022,Europe,Traffic Commute Time Index,31.14
+Austria,2022,Europe,Traffic Commute Time Index,25.38
+New Zealand,2022,Oceania,Traffic Commute Time Index,30.73
+United Arab Emirates,2022,Asia,Traffic Commute Time Index,36.1
+Estonia,2022,Europe,Traffic Commute Time Index,23.97
+Luxembourg,2022,Europe,Traffic Commute Time Index,31.66
+Sweden,2022,Europe,Traffic Commute Time Index,29.42
+Spain,2022,Europe,Traffic Commute Time Index,29.2
+Japan,2022,Asia,Traffic Commute Time Index,40.65
+Oman,2022,Asia,Traffic Commute Time Index,22.63
+Slovenia,2022,Europe,Traffic Commute Time Index,26.32
+United States of America,2022,Americas,Traffic Commute Time Index,32.88
+United Kingdom,2022,Europe,Traffic Commute Time Index,34.43
+Czech Republic,2022,Europe,Traffic Commute Time Index,29.37
+Canada,2022,Americas,Traffic Commute Time Index,33.56
+Lithuania,2022,Europe,Traffic Commute Time Index,25.31
+Croatia,2022,Europe,Traffic Commute Time Index,26.74
+Portugal,2022,Europe,Traffic Commute Time Index,29.64
+Belgium,2022,Europe,Traffic Commute Time Index,36.36
+Qatar,2022,Asia,Traffic Commute Time Index,29.96
+Singapore,2022,Asia,Traffic Commute Time Index,41.19
+France,2022,Europe,Traffic Commute Time Index,34.67
+Latvia,2022,Europe,Traffic Commute Time Index,30.25
+Ireland,2022,Europe,Traffic Commute Time Index,37.91
+Slovakia,2022,Europe,Traffic Commute Time Index,28.1
+Saudi Arabia,2022,Asia,Traffic Commute Time Index,29.04
+Cyprus,2022,Asia,Traffic Commute Time Index,23.14
+Israel,2022,Asia,Traffic Commute Time Index,36.4
+Taiwan,2022,Asia,Traffic Commute Time Index,31.68
+Italy,2022,Europe,Traffic Commute Time Index,33.61
+South Africa,2022,Africa,Traffic Commute Time Index,39.18
+Hungary,2022,Europe,Traffic Commute Time Index,35.61
+Poland,2022,Europe,Traffic Commute Time Index,32.32
+Puerto Rico,2022,Americas,Traffic Commute Time Index,34.85
+Romania,2022,Europe,Traffic Commute Time Index,33.38
+South Korea,2022,Asia,Traffic Commute Time Index,39.65
+Bosnia And Herzegovina,2022,Europe,Traffic Commute Time Index,26.22
+Bulgaria,2022,Europe,Traffic Commute Time Index,29.01
+Greece,2022,Europe,Traffic Commute Time Index,33.68
+Mexico,2022,Americas,Traffic Commute Time Index,39.15
+India,2022,Asia,Traffic Commute Time Index,46.4
+Costa Rica,2022,Americas,Traffic Commute Time Index,60.19
+Uruguay,2022,Americas,Traffic Commute Time Index,37.31
+Malaysia,2022,Asia,Traffic Commute Time Index,37.22
+Serbia,2022,Europe,Traffic Commute Time Index,31.02
+Ecuador,2022,Americas,Traffic Commute Time Index,37.88
+Turkey,2022,Asia,Traffic Commute Time Index,44.01
+Georgia,2022,Asia,Traffic Commute Time Index,35.59
+Kuwait,2022,Asia,Traffic Commute Time Index,33.37
+Tunisia,2022,Africa,Traffic Commute Time Index,32.51
+Panama,2022,Americas,Traffic Commute Time Index,36.66
+Jordan,2022,Asia,Traffic Commute Time Index,41.23
+Ukraine,2022,Europe,Traffic Commute Time Index,37.87
+Argentina,2022,Americas,Traffic Commute Time Index,43.39
+North Macedonia,2022,Europe,Traffic Commute Time Index,25.98
+Belarus,2022,Europe,Traffic Commute Time Index,29.86
+Azerbaijan,2022,Asia,Traffic Commute Time Index,39.64
+Morocco,2022,Africa,Traffic Commute Time Index,36.88
+Malta,2022,Europe,Traffic Commute Time Index,30.02
+Brazil,2022,Americas,Traffic Commute Time Index,41.11
+Hong Kong,2022,Asia,Traffic Commute Time Index,42.86
+Russian Federation,2022,Europe,Traffic Commute Time Index,44.1
+Pakistan,2022,Asia,Traffic Commute Time Index,38.22
+Colombia,2022,Americas,Traffic Commute Time Index,47.9
+Chile,2022,Americas,Traffic Commute Time Index,35.79
+Thailand,2022,Asia,Traffic Commute Time Index,39.07
+Lebanon,2022,Asia,Traffic Commute Time Index,38.69
+Indonesia,2022,Asia,Traffic Commute Time Index,43.38
+Kazakhstan,2022,Asia,Traffic Commute Time Index,34.73
+China,2022,Asia,Traffic Commute Time Index,39.51
+Egypt,2022,Africa,Traffic Commute Time Index,48.29
+Kenya,2022,Africa,Traffic Commute Time Index,52.13
+Vietnam,2022,Asia,Traffic Commute Time Index,29.68
+Philippines,2022,Asia,Traffic Commute Time Index,42.88
+Peru,2022,Americas,Traffic Commute Time Index,49.6
+Venezuela,2022,Americas,Traffic Commute Time Index,33.14
+Iran,2022,Asia,Traffic Commute Time Index,46.72
+Sri Lanka,2022,Asia,Traffic Commute Time Index,56.89
+Bangladesh,2022,Asia,Traffic Commute Time Index,57.51
+Nigeria,2022,Africa,Traffic Commute Time Index,63.39
+Switzerland,2021,Europe,Traffic Commute Time Index,28.73
+Denmark,2021,Europe,Traffic Commute Time Index,28.69
+Netherlands,2021,Europe,Traffic Commute Time Index,27.81
+Finland,2021,Europe,Traffic Commute Time Index,28.96
+Austria,2021,Europe,Traffic Commute Time Index,25.68
+Australia,2021,Oceania,Traffic Commute Time Index,35.04
+Iceland,2021,Europe,Traffic Commute Time Index,19.98
+Germany,2021,Europe,Traffic Commute Time Index,31.36
+New Zealand,2021,Oceania,Traffic Commute Time Index,30.7
+Norway,2021,Europe,Traffic Commute Time Index,26.87
+Estonia,2021,Europe,Traffic Commute Time Index,24.72
+Oman,2021,Asia,Traffic Commute Time Index,23.02
+Sweden,2021,Europe,Traffic Commute Time Index,29.89
+Slovenia,2021,Europe,Traffic Commute Time Index,26.79
+United States of America,2021,Americas,Traffic Commute Time Index,32.89
+Spain,2021,Europe,Traffic Commute Time Index,29.38
+Japan,2021,Asia,Traffic Commute Time Index,39.85
+Portugal,2021,Europe,Traffic Commute Time Index,29.64
+Lithuania,2021,Europe,Traffic Commute Time Index,25.67
+Canada,2021,Americas,Traffic Commute Time Index,33.72
+United Kingdom,2021,Europe,Traffic Commute Time Index,34.44
+Czech Republic,2021,Europe,Traffic Commute Time Index,29.72
+Croatia,2021,Europe,Traffic Commute Time Index,28.13
+United Arab Emirates,2021,Asia,Traffic Commute Time Index,36.31
+Qatar,2021,Asia,Traffic Commute Time Index,30.45
+Belgium,2021,Europe,Traffic Commute Time Index,36.24
+Ireland,2021,Europe,Traffic Commute Time Index,37.7
+France,2021,Europe,Traffic Commute Time Index,34.53
+Slovakia,2021,Europe,Traffic Commute Time Index,27.81
+Latvia,2021,Europe,Traffic Commute Time Index,31.16
+Saudi Arabia,2021,Asia,Traffic Commute Time Index,28.45
+Israel,2021,Asia,Traffic Commute Time Index,35.76
+Cyprus,2021,Asia,Traffic Commute Time Index,23.44
+Singapore,2021,Asia,Traffic Commute Time Index,41.19
+Taiwan,2021,Asia,Traffic Commute Time Index,31.28
+Italy,2021,Europe,Traffic Commute Time Index,34.17
+Hungary,2021,Europe,Traffic Commute Time Index,35.81
+Poland,2021,Europe,Traffic Commute Time Index,31.34
+South Africa,2021,Africa,Traffic Commute Time Index,39.3
+Romania,2021,Europe,Traffic Commute Time Index,34.13
+Puerto Rico,2021,Americas,Traffic Commute Time Index,34.16
+South Korea,2021,Asia,Traffic Commute Time Index,39.88
+Greece,2021,Europe,Traffic Commute Time Index,33.94
+Bulgaria,2021,Europe,Traffic Commute Time Index,29.39
+Turkey,2021,Asia,Traffic Commute Time Index,44.64
+Bosnia And Herzegovina,2021,Europe,Traffic Commute Time Index,25.89
+Uruguay,2021,Americas,Traffic Commute Time Index,37.74
+Costa Rica,2021,Americas,Traffic Commute Time Index,60.19
+Mexico,2021,Americas,Traffic Commute Time Index,39.02
+Georgia,2021,Asia,Traffic Commute Time Index,35.4
+Ecuador,2021,Americas,Traffic Commute Time Index,39.57
+Malaysia,2021,Asia,Traffic Commute Time Index,37
+Serbia,2021,Europe,Traffic Commute Time Index,31.1
+Jordan,2021,Asia,Traffic Commute Time Index,41.41
+Kuwait,2021,Asia,Traffic Commute Time Index,33.72
+Argentina,2021,Americas,Traffic Commute Time Index,43.16
+Panama,2021,Americas,Traffic Commute Time Index,37.55
+North Macedonia,2021,Europe,Traffic Commute Time Index,27.22
+Ukraine,2021,Europe,Traffic Commute Time Index,37.9
+Belarus,2021,Europe,Traffic Commute Time Index,30.05
+Pakistan,2021,Asia,Traffic Commute Time Index,37.8
+Brazil,2021,Americas,Traffic Commute Time Index,41.71
+India,2021,Asia,Traffic Commute Time Index,46.66
+Morocco,2021,Africa,Traffic Commute Time Index,36.3
+China,2021,Asia,Traffic Commute Time Index,40.89
+Azerbaijan,2021,Asia,Traffic Commute Time Index,39.41
+Russian Federation,2021,Europe,Traffic Commute Time Index,44.6
+Colombia,2021,Americas,Traffic Commute Time Index,47.34
+Thailand,2021,Asia,Traffic Commute Time Index,39.19
+Chile,2021,Americas,Traffic Commute Time Index,35.56
+Hong Kong,2021,Asia,Traffic Commute Time Index,42.28
+Kazakhstan,2021,Asia,Traffic Commute Time Index,33.64
+Lebanon,2021,Asia,Traffic Commute Time Index,39.06
+Indonesia,2021,Asia,Traffic Commute Time Index,43.4
+Vietnam,2021,Asia,Traffic Commute Time Index,29.61
+Egypt,2021,Africa,Traffic Commute Time Index,49.08
+Peru,2021,Americas,Traffic Commute Time Index,48.81
+Sri Lanka,2021,Asia,Traffic Commute Time Index,57.2
+Philippines,2021,Asia,Traffic Commute Time Index,44.04
+Kenya,2021,Africa,Traffic Commute Time Index,57.39
+Bangladesh,2021,Asia,Traffic Commute Time Index,58.53
+Iran,2021,Asia,Traffic Commute Time Index,47.43
+Nigeria,2021,Africa,Traffic Commute Time Index,61.68
+Denmark,2020,Europe,Traffic Commute Time Index,28.85
+Switzerland,2020,Europe,Traffic Commute Time Index,29.09
+Finland,2020,Europe,Traffic Commute Time Index,29.9
+Australia,2020,Oceania,Traffic Commute Time Index,34.73
+Netherlands,2020,Europe,Traffic Commute Time Index,29.43
+Austria,2020,Europe,Traffic Commute Time Index,26.27
+Iceland,2020,Europe,Traffic Commute Time Index,20.1
+New Zealand,2020,Oceania,Traffic Commute Time Index,31.1
+Germany,2020,Europe,Traffic Commute Time Index,30.98
+Estonia,2020,Europe,Traffic Commute Time Index,24.53
+Sweden,2020,Europe,Traffic Commute Time Index,30.49
+Norway,2020,Europe,Traffic Commute Time Index,26.99
+Slovenia,2020,Europe,Traffic Commute Time Index,27.3
+United States of America,2020,Americas,Traffic Commute Time Index,32.89
+Spain,2020,Europe,Traffic Commute Time Index,29.1
+Japan,2020,Asia,Traffic Commute Time Index,39.15
+Oman,2020,Asia,Traffic Commute Time Index,22.8
+Canada,2020,Americas,Traffic Commute Time Index,33.87
+Portugal,2020,Europe,Traffic Commute Time Index,30
+United Kingdom,2020,Europe,Traffic Commute Time Index,34.53
+Qatar,2020,Asia,Traffic Commute Time Index,29.72
+Lithuania,2020,Europe,Traffic Commute Time Index,26.08
+Croatia,2020,Europe,Traffic Commute Time Index,29.11
+United Arab Emirates,2020,Asia,Traffic Commute Time Index,36.85
+Czech Republic,2020,Europe,Traffic Commute Time Index,29.65
+France,2020,Europe,Traffic Commute Time Index,34.76
+Ireland,2020,Europe,Traffic Commute Time Index,37.68
+Belgium,2020,Europe,Traffic Commute Time Index,36.15
+Slovakia,2020,Europe,Traffic Commute Time Index,29.11
+Saudi Arabia,2020,Asia,Traffic Commute Time Index,28.61
+Latvia,2020,Europe,Traffic Commute Time Index,32.89
+Israel,2020,Asia,Traffic Commute Time Index,35.91
+Cyprus,2020,Asia,Traffic Commute Time Index,23.95
+Singapore,2020,Asia,Traffic Commute Time Index,41.31
+Taiwan,2020,Asia,Traffic Commute Time Index,31.93
+Poland,2020,Europe,Traffic Commute Time Index,31.72
+Italy,2020,Europe,Traffic Commute Time Index,34.42
+South Korea,2020,Asia,Traffic Commute Time Index,39.57
+Belarus,2020,Europe,Traffic Commute Time Index,30.68
+Greece,2020,Europe,Traffic Commute Time Index,33.84
+Romania,2020,Europe,Traffic Commute Time Index,34.75
+South Africa,2020,Africa,Traffic Commute Time Index,39.43
+Bulgaria,2020,Europe,Traffic Commute Time Index,29.39
+Hungary,2020,Europe,Traffic Commute Time Index,35.78
+Turkey,2020,Asia,Traffic Commute Time Index,44.65
+Uruguay,2020,Americas,Traffic Commute Time Index,39.89
+Ecuador,2020,Americas,Traffic Commute Time Index,37.55
+Bosnia And Herzegovina,2020,Europe,Traffic Commute Time Index,26.67
+Chile,2020,Americas,Traffic Commute Time Index,35.44
+Mexico,2020,Americas,Traffic Commute Time Index,39.39
+Malaysia,2020,Asia,Traffic Commute Time Index,37.03
+Serbia,2020,Europe,Traffic Commute Time Index,30.43
+Georgia,2020,Asia,Traffic Commute Time Index,36.02
+Kuwait,2020,Asia,Traffic Commute Time Index,34.44
+Argentina,2020,Americas,Traffic Commute Time Index,43.08
+Jordan,2020,Asia,Traffic Commute Time Index,42.03
+North Macedonia,2020,Europe,Traffic Commute Time Index,27.61
+India,2020,Asia,Traffic Commute Time Index,46.99
+Panama,2020,Americas,Traffic Commute Time Index,36.48
+Lebanon,2020,Asia,Traffic Commute Time Index,37.38
+Colombia,2020,Americas,Traffic Commute Time Index,47.49
+Brazil,2020,Americas,Traffic Commute Time Index,41.7
+Morocco,2020,Africa,Traffic Commute Time Index,36.89
+Pakistan,2020,Asia,Traffic Commute Time Index,38.56
+Ukraine,2020,Europe,Traffic Commute Time Index,38.65
+China,2020,Asia,Traffic Commute Time Index,41.81
+Russian Federation,2020,Europe,Traffic Commute Time Index,45.3
+Thailand,2020,Asia,Traffic Commute Time Index,38.23
+Hong Kong,2020,Asia,Traffic Commute Time Index,41.46
+Indonesia,2020,Asia,Traffic Commute Time Index,43.11
+Kazakhstan,2020,Asia,Traffic Commute Time Index,31.08
+Vietnam,2020,Asia,Traffic Commute Time Index,30.17
+Egypt,2020,Africa,Traffic Commute Time Index,49.78
+Peru,2020,Americas,Traffic Commute Time Index,48.33
+Philippines,2020,Asia,Traffic Commute Time Index,44.63
+Sri Lanka,2020,Asia,Traffic Commute Time Index,59.01
+Iran,2020,Asia,Traffic Commute Time Index,48.01
+Kenya,2020,Africa,Traffic Commute Time Index,56.65
+Bangladesh,2020,Asia,Traffic Commute Time Index,56.73
+Nigeria,2020,Africa,Traffic Commute Time Index,61.08
+Denmark,2019,Europe,Traffic Commute Time Index,28.51
+Switzerland,2019,Europe,Traffic Commute Time Index,29.05
+Finland,2019,Europe,Traffic Commute Time Index,30.41
+Australia,2019,Oceania,Traffic Commute Time Index,35.29
+Austria,2019,Europe,Traffic Commute Time Index,25.15
+Netherlands,2019,Europe,Traffic Commute Time Index,29.87
+Iceland,2019,Europe,Traffic Commute Time Index,19.74
+Germany,2019,Europe,Traffic Commute Time Index,29.91
+New Zealand,2019,Oceania,Traffic Commute Time Index,31.19
+Norway,2019,Europe,Traffic Commute Time Index,27.12
+Estonia,2019,Europe,Traffic Commute Time Index,25.75
+Japan,2019,Asia,Traffic Commute Time Index,40.03
+United States of America,2019,Americas,Traffic Commute Time Index,32.87
+Sweden,2019,Europe,Traffic Commute Time Index,30.29
+Slovenia,2019,Europe,Traffic Commute Time Index,24.81
+Spain,2019,Europe,Traffic Commute Time Index,29.42
+United Kingdom,2019,Europe,Traffic Commute Time Index,34.62
+Canada,2019,Americas,Traffic Commute Time Index,33.77
+Qatar,2019,Asia,Traffic Commute Time Index,31.71
+United Arab Emirates,2019,Asia,Traffic Commute Time Index,37.46
+Croatia,2019,Europe,Traffic Commute Time Index,29.11
+Portugal,2019,Europe,Traffic Commute Time Index,29.02
+Belgium,2019,Europe,Traffic Commute Time Index,34.86
+Ireland,2019,Europe,Traffic Commute Time Index,35.85
+Czech Republic,2019,Europe,Traffic Commute Time Index,30.02
+France,2019,Europe,Traffic Commute Time Index,35.27
+Cyprus,2019,Asia,Traffic Commute Time Index,20.27
+Singapore,2019,Asia,Traffic Commute Time Index,42.15
+Lithuania,2019,Europe,Traffic Commute Time Index,27.15
+Israel,2019,Asia,Traffic Commute Time Index,36.32
+Slovakia,2019,Europe,Traffic Commute Time Index,29.58
+Saudi Arabia,2019,Asia,Traffic Commute Time Index,29.61
+South Korea,2019,Asia,Traffic Commute Time Index,40.02
+Latvia,2019,Europe,Traffic Commute Time Index,31.45
+Poland,2019,Europe,Traffic Commute Time Index,32.15
+Italy,2019,Europe,Traffic Commute Time Index,34.69
+Belarus,2019,Europe,Traffic Commute Time Index,28.78
+Romania,2019,Europe,Traffic Commute Time Index,34.36
+Greece,2019,Europe,Traffic Commute Time Index,32.2
+South Africa,2019,Africa,Traffic Commute Time Index,40.33
+Hungary,2019,Europe,Traffic Commute Time Index,35.17
+Taiwan,2019,Asia,Traffic Commute Time Index,30.9
+Bulgaria,2019,Europe,Traffic Commute Time Index,28.79
+Turkey,2019,Asia,Traffic Commute Time Index,44.77
+Bosnia And Herzegovina,2019,Europe,Traffic Commute Time Index,26.43
+Chile,2019,Americas,Traffic Commute Time Index,36.79
+Mexico,2019,Americas,Traffic Commute Time Index,39.08
+Argentina,2019,Americas,Traffic Commute Time Index,43.04
+Malaysia,2019,Asia,Traffic Commute Time Index,35.25
+Georgia,2019,Asia,Traffic Commute Time Index,34.34
+Serbia,2019,Europe,Traffic Commute Time Index,29.74
+India,2019,Asia,Traffic Commute Time Index,45.71
+Panama,2019,Americas,Traffic Commute Time Index,36.48
+Jordan,2019,Asia,Traffic Commute Time Index,42.43
+Lebanon,2019,Asia,Traffic Commute Time Index,37.36
+North Macedonia,2019,Europe,Traffic Commute Time Index,27.94
+Colombia,2019,Americas,Traffic Commute Time Index,45.06
+Indonesia,2019,Asia,Traffic Commute Time Index,42.93
+Russian Federation,2019,Europe,Traffic Commute Time Index,46
+Pakistan,2019,Asia,Traffic Commute Time Index,38.63
+Thailand,2019,Asia,Traffic Commute Time Index,39.4
+Ukraine,2019,Europe,Traffic Commute Time Index,37.36
+Hong Kong,2019,Asia,Traffic Commute Time Index,41
+Brazil,2019,Americas,Traffic Commute Time Index,43.37
+China,2019,Asia,Traffic Commute Time Index,42.46
+Sri Lanka,2019,Asia,Traffic Commute Time Index,51.9
+Philippines,2019,Asia,Traffic Commute Time Index,44.15
+Vietnam,2019,Asia,Traffic Commute Time Index,28.33
+Kazakhstan,2019,Asia,Traffic Commute Time Index,29.75
+Iran,2019,Asia,Traffic Commute Time Index,48.38
+Egypt,2019,Africa,Traffic Commute Time Index,49.17
+Denmark,2018,Europe,Traffic Commute Time Index,28.53
+Finland,2018,Europe,Traffic Commute Time Index,33.23
+Netherlands,2018,Europe,Traffic Commute Time Index,32.73
+Switzerland,2018,Europe,Traffic Commute Time Index,29.28
+Austria,2018,Europe,Traffic Commute Time Index,27.02
+Germany,2018,Europe,Traffic Commute Time Index,31.25
+Australia,2018,Oceania,Traffic Commute Time Index,36.32
+New Zealand,2018,Oceania,Traffic Commute Time Index,34.48
+United States of America,2018,Americas,Traffic Commute Time Index,34.74
+Sweden,2018,Europe,Traffic Commute Time Index,30.68
+Estonia,2018,Europe,Traffic Commute Time Index,32.73
+Norway,2018,Europe,Traffic Commute Time Index,31.04
+Japan,2018,Asia,Traffic Commute Time Index,44.48
+Slovenia,2018,Europe,Traffic Commute Time Index,27.78
+Spain,2018,Europe,Traffic Commute Time Index,31.42
+Canada,2018,Americas,Traffic Commute Time Index,36.07
+United Kingdom,2018,Europe,Traffic Commute Time Index,35.75
+Portugal,2018,Europe,Traffic Commute Time Index,30.28
+France,2018,Europe,Traffic Commute Time Index,35.03
+Belgium,2018,Europe,Traffic Commute Time Index,34.63
+United Arab Emirates,2018,Asia,Traffic Commute Time Index,37.49
+Ireland,2018,Europe,Traffic Commute Time Index,37.47
+Taiwan,2018,Asia,Traffic Commute Time Index,33.15
+Croatia,2018,Europe,Traffic Commute Time Index,29.55
+Czech Republic,2018,Europe,Traffic Commute Time Index,30.3
+Qatar,2018,Asia,Traffic Commute Time Index,34.78
+South Korea,2018,Asia,Traffic Commute Time Index,37.24
+Slovakia,2018,Europe,Traffic Commute Time Index,32.17
+Israel,2018,Asia,Traffic Commute Time Index,36.73
+Singapore,2018,Asia,Traffic Commute Time Index,45.99
+Saudi Arabia,2018,Asia,Traffic Commute Time Index,34.01
+Lithuania,2018,Europe,Traffic Commute Time Index,28.69
+Poland,2018,Europe,Traffic Commute Time Index,33.6
+Italy,2018,Europe,Traffic Commute Time Index,37.01
+Romania,2018,Europe,Traffic Commute Time Index,33.4
+South Africa,2018,Africa,Traffic Commute Time Index,43.26
+Greece,2018,Europe,Traffic Commute Time Index,32.16
+Hungary,2018,Europe,Traffic Commute Time Index,34.12
+Argentina,2018,Americas,Traffic Commute Time Index,41.55
+Bulgaria,2018,Europe,Traffic Commute Time Index,31.12
+Bosnia And Herzegovina,2018,Europe,Traffic Commute Time Index,27.48
+Turkey,2018,Asia,Traffic Commute Time Index,46.29
+Mexico,2018,Americas,Traffic Commute Time Index,42.03
+Serbia,2018,Europe,Traffic Commute Time Index,28.95
+Chile,2018,Americas,Traffic Commute Time Index,35.07
+India,2018,Asia,Traffic Commute Time Index,46.76
+Malaysia,2018,Asia,Traffic Commute Time Index,37.6
+Indonesia,2018,Asia,Traffic Commute Time Index,42.75
+Colombia,2018,Americas,Traffic Commute Time Index,48.1
+Hong Kong,2018,Asia,Traffic Commute Time Index,41.26
+Russian Federation,2018,Europe,Traffic Commute Time Index,48.26
+Thailand,2018,Asia,Traffic Commute Time Index,39.21
+Pakistan,2018,Asia,Traffic Commute Time Index,41.55
+Brazil,2018,Americas,Traffic Commute Time Index,45.27
+China,2018,Asia,Traffic Commute Time Index,42.55
+Philippines,2018,Asia,Traffic Commute Time Index,44.24
+Ukraine,2018,Europe,Traffic Commute Time Index,38.5
+Iran,2018,Asia,Traffic Commute Time Index,49.46
+Egypt,2018,Africa,Traffic Commute Time Index,46.69
+Vietnam,2018,Asia,Traffic Commute Time Index,31.1
+Austria,2017,Europe,Traffic Commute Time Index,26.27
+Germany,2017,Europe,Traffic Commute Time Index,30.55
+Denmark,2017,Europe,Traffic Commute Time Index,28.42
+New Zealand,2017,Oceania,Traffic Commute Time Index,30.23
+Spain,2017,Europe,Traffic Commute Time Index,32.63
+Finland,2017,Europe,Traffic Commute Time Index,34.92
+United States of America,2017,Americas,Traffic Commute Time Index,34.58
+Portugal,2017,Europe,Traffic Commute Time Index,30.44
+Australia,2017,Oceania,Traffic Commute Time Index,34.73
+Slovenia,2017,Europe,Traffic Commute Time Index,26.48
+Netherlands,2017,Europe,Traffic Commute Time Index,33.9
+Switzerland,2017,Europe,Traffic Commute Time Index,28.3
+United Kingdom,2017,Europe,Traffic Commute Time Index,34.6
+Sweden,2017,Europe,Traffic Commute Time Index,31.6
+Estonia,2017,Europe,Traffic Commute Time Index,26.71
+Croatia,2017,Europe,Traffic Commute Time Index,28.45
+Canada,2017,Americas,Traffic Commute Time Index,36.24
+Ireland,2017,Europe,Traffic Commute Time Index,35.01
+Cyprus,2017,Asia,Traffic Commute Time Index,20.32
+Norway,2017,Europe,Traffic Commute Time Index,31.32
+Czech Republic,2017,Europe,Traffic Commute Time Index,31.98
+South Korea,2017,Asia,Traffic Commute Time Index,34.18
+Belgium,2017,Europe,Traffic Commute Time Index,36.26
+France,2017,Europe,Traffic Commute Time Index,35.81
+Israel,2017,Asia,Traffic Commute Time Index,36.52
+Slovakia,2017,Europe,Traffic Commute Time Index,36.03
+Poland,2017,Europe,Traffic Commute Time Index,34.55
+Taiwan,2017,Asia,Traffic Commute Time Index,32.69
+Greece,2017,Europe,Traffic Commute Time Index,31.6
+Japan,2017,Asia,Traffic Commute Time Index,46.81
+Saudi Arabia,2017,Asia,Traffic Commute Time Index,36.31
+South Africa,2017,Africa,Traffic Commute Time Index,42.98
+Romania,2017,Europe,Traffic Commute Time Index,31.97
+Italy,2017,Europe,Traffic Commute Time Index,36.38
+Argentina,2017,Americas,Traffic Commute Time Index,37.95
+United Arab Emirates,2017,Asia,Traffic Commute Time Index,35.05
+Bosnia And Herzegovina,2017,Europe,Traffic Commute Time Index,26.63
+Hungary,2017,Europe,Traffic Commute Time Index,33.09
+Bulgaria,2017,Europe,Traffic Commute Time Index,27.92
+Chile,2017,Americas,Traffic Commute Time Index,35.7
+Serbia,2017,Europe,Traffic Commute Time Index,29.93
+Qatar,2017,Asia,Traffic Commute Time Index,32.97
+Lithuania,2017,Europe,Traffic Commute Time Index,28
+Turkey,2017,Asia,Traffic Commute Time Index,47.58
+Mexico,2017,Americas,Traffic Commute Time Index,41.66
+Belarus,2017,Europe,Traffic Commute Time Index,27.66
+Jordan,2017,Asia,Traffic Commute Time Index,47.76
+North Macedonia,2017,Europe,Traffic Commute Time Index,33.79
+Colombia,2017,Americas,Traffic Commute Time Index,43.77
+Lebanon,2017,Asia,Traffic Commute Time Index,36.15
+India,2017,Asia,Traffic Commute Time Index,46.38
+Iran,2017,Asia,Traffic Commute Time Index,49.7
+Brazil,2017,Americas,Traffic Commute Time Index,46.39
+Hong Kong,2017,Asia,Traffic Commute Time Index,42.22
+Pakistan,2017,Asia,Traffic Commute Time Index,38.69
+Egypt,2017,Africa,Traffic Commute Time Index,48.84
+China,2017,Asia,Traffic Commute Time Index,43.87
+Sri Lanka,2017,Asia,Traffic Commute Time Index,47.19
+Ukraine,2017,Europe,Traffic Commute Time Index,39.16
+Singapore,2017,Asia,Traffic Commute Time Index,43.39
+Russian Federation,2017,Europe,Traffic Commute Time Index,48.57
+Indonesia,2017,Asia,Traffic Commute Time Index,49.44
+Thailand,2017,Asia,Traffic Commute Time Index,43.56
+Philippines,2017,Asia,Traffic Commute Time Index,45.14
+Malaysia,2017,Asia,Traffic Commute Time Index,39.4
+Vietnam,2017,Asia,Traffic Commute Time Index,33
+Venezuela,2017,Americas,Traffic Commute Time Index,46.24
+Switzerland,2016,Europe,Traffic Commute Time Index,28.73
+Denmark,2016,Europe,Traffic Commute Time Index,25.64
+New Zealand,2016,Oceania,Traffic Commute Time Index,31.1
+Germany,2016,Europe,Traffic Commute Time Index,29.07
+Australia,2016,Oceania,Traffic Commute Time Index,34.65
+Austria,2016,Europe,Traffic Commute Time Index,26.79
+Netherlands,2016,Europe,Traffic Commute Time Index,35.51
+Norway,2016,Europe,Traffic Commute Time Index,29.48
+Spain,2016,Europe,Traffic Commute Time Index,30.52
+Sweden,2016,Europe,Traffic Commute Time Index,32.05
+Finland,2016,Europe,Traffic Commute Time Index,32.89
+United States of America,2016,Americas,Traffic Commute Time Index,33.35
+Portugal,2016,Europe,Traffic Commute Time Index,30.56
+United Kingdom,2016,Europe,Traffic Commute Time Index,35.53
+Canada,2016,Americas,Traffic Commute Time Index,37.79
+Japan,2016,Asia,Traffic Commute Time Index,48.35
+Slovenia,2016,Europe,Traffic Commute Time Index,25
+France,2016,Europe,Traffic Commute Time Index,31.98
+Croatia,2016,Europe,Traffic Commute Time Index,30.03
+Ireland,2016,Europe,Traffic Commute Time Index,32.31
+South Korea,2016,Asia,Traffic Commute Time Index,30.93
+Czech Republic,2016,Europe,Traffic Commute Time Index,32.48
+Israel,2016,Asia,Traffic Commute Time Index,37.76
+Greece,2016,Europe,Traffic Commute Time Index,29.09
+Belgium,2016,Europe,Traffic Commute Time Index,36.19
+Italy,2016,Europe,Traffic Commute Time Index,36.49
+Saudi Arabia,2016,Asia,Traffic Commute Time Index,38.7
+South Africa,2016,Africa,Traffic Commute Time Index,43.18
+Poland,2016,Europe,Traffic Commute Time Index,34.51
+Chile,2016,Americas,Traffic Commute Time Index,33.81
+Bosnia And Herzegovina,2016,Europe,Traffic Commute Time Index,23.41
+Romania,2016,Europe,Traffic Commute Time Index,33.29
+United Arab Emirates,2016,Asia,Traffic Commute Time Index,33.69
+Bulgaria,2016,Europe,Traffic Commute Time Index,28.66
+Hungary,2016,Europe,Traffic Commute Time Index,31.78
+Argentina,2016,Americas,Traffic Commute Time Index,42.36
+Serbia,2016,Europe,Traffic Commute Time Index,28.37
+Turkey,2016,Asia,Traffic Commute Time Index,48.05
+Mexico,2016,Americas,Traffic Commute Time Index,37.06
+Lithuania,2016,Europe,Traffic Commute Time Index,30.24
+Colombia,2016,Americas,Traffic Commute Time Index,44.24
+North Macedonia,2016,Europe,Traffic Commute Time Index,40.68
+India,2016,Asia,Traffic Commute Time Index,45.98
+Hong Kong,2016,Asia,Traffic Commute Time Index,46.4
+Brazil,2016,Americas,Traffic Commute Time Index,46.12
+China,2016,Asia,Traffic Commute Time Index,44.09
+Iran,2016,Asia,Traffic Commute Time Index,48.15
+Pakistan,2016,Asia,Traffic Commute Time Index,36.85
+Singapore,2016,Asia,Traffic Commute Time Index,43.43
+Egypt,2016,Africa,Traffic Commute Time Index,50.85
+Russian Federation,2016,Europe,Traffic Commute Time Index,49.13
+Ukraine,2016,Europe,Traffic Commute Time Index,39.95
+Indonesia,2016,Asia,Traffic Commute Time Index,41.4
+Philippines,2016,Asia,Traffic Commute Time Index,45.97
+Thailand,2016,Asia,Traffic Commute Time Index,43.09
+Malaysia,2016,Asia,Traffic Commute Time Index,39.77
+Switzerland,2015,Europe,Traffic Commute Time Index,25.63
+Germany,2015,Europe,Traffic Commute Time Index,31.08
+Sweden,2015,Europe,Traffic Commute Time Index,26.9
+United States of America,2015,Americas,Traffic Commute Time Index,35.96
+Finland,2015,Europe,Traffic Commute Time Index,33.17
+Denmark,2015,Europe,Traffic Commute Time Index,27.85
+Austria,2015,Europe,Traffic Commute Time Index,25.86
+Australia,2015,Oceania,Traffic Commute Time Index,36.25
+Canada,2015,Americas,Traffic Commute Time Index,38.88
+New Zealand,2015,Oceania,Traffic Commute Time Index,28.1
+Norway,2015,Europe,Traffic Commute Time Index,25.3
+Saudi Arabia,2015,Asia,Traffic Commute Time Index,26.14
+Japan,2015,Asia,Traffic Commute Time Index,51.05
+Netherlands,2015,Europe,Traffic Commute Time Index,35.45
+Turkmenistan,2015,Asia,Traffic Commute Time Index,11.75
+United Kingdom,2015,Europe,Traffic Commute Time Index,34
+Cyprus,2015,Asia,Traffic Commute Time Index,19
+United Arab Emirates,2015,Asia,Traffic Commute Time Index,29.9
+Ireland,2015,Europe,Traffic Commute Time Index,32.6
+Qatar,2015,Asia,Traffic Commute Time Index,29.27
+Estonia,2015,Europe,Traffic Commute Time Index,22.44
+France,2015,Europe,Traffic Commute Time Index,28.6
+Belgium,2015,Europe,Traffic Commute Time Index,26.69
+Spain,2015,Europe,Traffic Commute Time Index,28.91
+Slovenia,2015,Europe,Traffic Commute Time Index,18.82
+Portugal,2015,Europe,Traffic Commute Time Index,28.2
+Czech Republic,2015,Europe,Traffic Commute Time Index,31.47
+Puerto Rico,2015,Americas,Traffic Commute Time Index,32
+Kuwait,2015,Asia,Traffic Commute Time Index,25
+Israel,2015,Asia,Traffic Commute Time Index,41.25
+South Korea,2015,Asia,Traffic Commute Time Index,31.33
+Lithuania,2015,Europe,Traffic Commute Time Index,31.33
+Croatia,2015,Europe,Traffic Commute Time Index,30.5
+Singapore,2015,Asia,Traffic Commute Time Index,44.07
+South Africa,2015,Africa,Traffic Commute Time Index,42.98
+Poland,2015,Europe,Traffic Commute Time Index,34.67
+Slovakia,2015,Europe,Traffic Commute Time Index,30.4
+Italy,2015,Europe,Traffic Commute Time Index,35.91
+Latvia,2015,Europe,Traffic Commute Time Index,24
+Greece,2015,Europe,Traffic Commute Time Index,33.18
+Hungary,2015,Europe,Traffic Commute Time Index,30.12
+Uruguay,2015,Americas,Traffic Commute Time Index,45
+Taiwan,2015,Asia,Traffic Commute Time Index,28.25
+Panama,2015,Americas,Traffic Commute Time Index,28.12
+Malaysia,2015,Asia,Traffic Commute Time Index,39.4
+Mexico,2015,Americas,Traffic Commute Time Index,36.89
+Bahrain,2015,Asia,Traffic Commute Time Index,27
+Romania,2015,Europe,Traffic Commute Time Index,30.69
+Hong Kong,2015,Asia,Traffic Commute Time Index,46.25
+Turkey,2015,Asia,Traffic Commute Time Index,46.32
+India,2015,Asia,Traffic Commute Time Index,45.24
+Argentina,2015,Americas,Traffic Commute Time Index,41.39
+Bosnia And Herzegovina,2015,Europe,Traffic Commute Time Index,21.9
+Belarus,2015,Europe,Traffic Commute Time Index,30.57
+Bulgaria,2015,Europe,Traffic Commute Time Index,33.43
+Chile,2015,Americas,Traffic Commute Time Index,40.83
+Georgia,2015,Asia,Traffic Commute Time Index,38
+Serbia,2015,Europe,Traffic Commute Time Index,27.79
+Sri Lanka,2015,Asia,Traffic Commute Time Index,30.83
+Armenia,2015,Asia,Traffic Commute Time Index,26.09
+Colombia,2015,Americas,Traffic Commute Time Index,44.55
+Thailand,2015,Asia,Traffic Commute Time Index,42.36
+Kazakhstan,2015,Asia,Traffic Commute Time Index,41.8
+Ecuador,2015,Americas,Traffic Commute Time Index,45.67
+Dominican Republic,2015,Americas,Traffic Commute Time Index,27.5
+Jordan,2015,Asia,Traffic Commute Time Index,51.4
+Philippines,2015,Asia,Traffic Commute Time Index,45.5
+Lebanon,2015,Asia,Traffic Commute Time Index,32.43
+Brazil,2015,Americas,Traffic Commute Time Index,46.34
+North Macedonia,2015,Europe,Traffic Commute Time Index,33.17
+Russian Federation,2015,Europe,Traffic Commute Time Index,47.08
+Indonesia,2015,Asia,Traffic Commute Time Index,41.63
+Pakistan,2015,Asia,Traffic Commute Time Index,25.14
+Ukraine,2015,Europe,Traffic Commute Time Index,40.04
+China,2015,Asia,Traffic Commute Time Index,37.48
+Kenya,2015,Africa,Traffic Commute Time Index,65.2
+Nigeria,2015,Africa,Traffic Commute Time Index,58.67
+Iran,2015,Asia,Traffic Commute Time Index,47.44
+Cambodia,2015,Asia,Traffic Commute Time Index,33.33
+Bangladesh,2015,Asia,Traffic Commute Time Index,58
+Egypt,2015,Africa,Traffic Commute Time Index,56.85
+Vietnam,2015,Asia,Traffic Commute Time Index,36.4
+Mongolia,2015,Asia,Traffic Commute Time Index,36.86
+Venezuela,2015,Americas,Traffic Commute Time Index,30.6
+Switzerland,2014,Europe,Traffic Commute Time Index,24.55
+United States of America,2014,Americas,Traffic Commute Time Index,37.13
+Germany,2014,Europe,Traffic Commute Time Index,36.07
+Sweden,2014,Europe,Traffic Commute Time Index,34.07
+Finland,2014,Europe,Traffic Commute Time Index,37
+Denmark,2014,Europe,Traffic Commute Time Index,25
+Canada,2014,Americas,Traffic Commute Time Index,39.17
+Australia,2014,Oceania,Traffic Commute Time Index,36.25
+United Arab Emirates,2014,Asia,Traffic Commute Time Index,28.2
+Austria,2014,Europe,Traffic Commute Time Index,24.5
+New Zealand,2014,Oceania,Traffic Commute Time Index,26.57
+Japan,2014,Asia,Traffic Commute Time Index,47.64
+Norway,2014,Europe,Traffic Commute Time Index,24.5
+Netherlands,2014,Europe,Traffic Commute Time Index,35.06
+United Kingdom,2014,Europe,Traffic Commute Time Index,37.68
+Estonia,2014,Europe,Traffic Commute Time Index,24.71
+Ireland,2014,Europe,Traffic Commute Time Index,22.53
+Kuwait,2014,Asia,Traffic Commute Time Index,17
+Saudi Arabia,2014,Asia,Traffic Commute Time Index,23.33
+France,2014,Europe,Traffic Commute Time Index,28.1
+Belgium,2014,Europe,Traffic Commute Time Index,25.96
+Slovenia,2014,Europe,Traffic Commute Time Index,20.67
+Portugal,2014,Europe,Traffic Commute Time Index,28.91
+Puerto Rico,2014,Americas,Traffic Commute Time Index,28.4
+Spain,2014,Europe,Traffic Commute Time Index,32.03
+Czech Republic,2014,Europe,Traffic Commute Time Index,33.08
+Lithuania,2014,Europe,Traffic Commute Time Index,22
+South Korea,2014,Asia,Traffic Commute Time Index,31.2
+Taiwan,2014,Asia,Traffic Commute Time Index,27.6
+South Africa,2014,Africa,Traffic Commute Time Index,41.31
+Slovakia,2014,Europe,Traffic Commute Time Index,37.5
+Croatia,2014,Europe,Traffic Commute Time Index,33.35
+Poland,2014,Europe,Traffic Commute Time Index,35.32
+Uruguay,2014,Americas,Traffic Commute Time Index,45
+Israel,2014,Asia,Traffic Commute Time Index,46.38
+Italy,2014,Europe,Traffic Commute Time Index,38.05
+Malaysia,2014,Asia,Traffic Commute Time Index,38.7
+Singapore,2014,Asia,Traffic Commute Time Index,47.82
+Mexico,2014,Americas,Traffic Commute Time Index,38.96
+Hungary,2014,Europe,Traffic Commute Time Index,34.83
+Argentina,2014,Americas,Traffic Commute Time Index,45
+India,2014,Asia,Traffic Commute Time Index,47.72
+Greece,2014,Europe,Traffic Commute Time Index,36.98
+Bosnia And Herzegovina,2014,Europe,Traffic Commute Time Index,22.56
+Belarus,2014,Europe,Traffic Commute Time Index,24.83
+Hong Kong,2014,Asia,Traffic Commute Time Index,47.73
+Chile,2014,Americas,Traffic Commute Time Index,42.1
+Serbia,2014,Europe,Traffic Commute Time Index,24.38
+Turkey,2014,Asia,Traffic Commute Time Index,51.93
+Romania,2014,Europe,Traffic Commute Time Index,33.29
+Bulgaria,2014,Europe,Traffic Commute Time Index,34.69
+Thailand,2014,Asia,Traffic Commute Time Index,32.82
+Ecuador,2014,Americas,Traffic Commute Time Index,42.8
+Kazakhstan,2014,Asia,Traffic Commute Time Index,40
+Jordan,2014,Asia,Traffic Commute Time Index,60.2
+Brazil,2014,Americas,Traffic Commute Time Index,43.02
+Colombia,2014,Americas,Traffic Commute Time Index,46.15
+China,2014,Asia,Traffic Commute Time Index,31.17
+Philippines,2014,Asia,Traffic Commute Time Index,49.78
+Pakistan,2014,Asia,Traffic Commute Time Index,25.12
+Ukraine,2014,Europe,Traffic Commute Time Index,41.89
+Indonesia,2014,Asia,Traffic Commute Time Index,41.07
+Lebanon,2014,Asia,Traffic Commute Time Index,32.43
+Russian Federation,2014,Europe,Traffic Commute Time Index,49.69
+Egypt,2014,Africa,Traffic Commute Time Index,60.83
+Iran,2014,Asia,Traffic Commute Time Index,54.45
+Mongolia,2014,Asia,Traffic Commute Time Index,36.86
+Venezuela,2014,Americas,Traffic Commute Time Index,38.75
+Switzerland,2013,Europe,Traffic Commute Time Index,25.87
+Germany,2013,Europe,Traffic Commute Time Index,31.89
+United States of America,2013,Americas,Traffic Commute Time Index,39.54
+Sweden,2013,Europe,Traffic Commute Time Index,27.9
+Canada,2013,Americas,Traffic Commute Time Index,38.76
+United Arab Emirates,2013,Asia,Traffic Commute Time Index,24.5
+Denmark,2013,Europe,Traffic Commute Time Index,22.5
+Norway,2013,Europe,Traffic Commute Time Index,27.08
+Qatar,2013,Asia,Traffic Commute Time Index,30.5
+Austria,2013,Europe,Traffic Commute Time Index,28
+Finland,2013,Europe,Traffic Commute Time Index,49
+Australia,2013,Oceania,Traffic Commute Time Index,39.09
+New Zealand,2013,Oceania,Traffic Commute Time Index,26.57
+Netherlands,2013,Europe,Traffic Commute Time Index,38.7
+Japan,2013,Asia,Traffic Commute Time Index,50.3
+Estonia,2013,Europe,Traffic Commute Time Index,23.17
+France,2013,Europe,Traffic Commute Time Index,28.9
+Ireland,2013,Europe,Traffic Commute Time Index,21
+United Kingdom,2013,Europe,Traffic Commute Time Index,38.67
+Belgium,2013,Europe,Traffic Commute Time Index,27.33
+Spain,2013,Europe,Traffic Commute Time Index,26.42
+Saudi Arabia,2013,Asia,Traffic Commute Time Index,15.75
+South Korea,2013,Asia,Traffic Commute Time Index,21.5
+Slovenia,2013,Europe,Traffic Commute Time Index,24.67
+South Africa,2013,Africa,Traffic Commute Time Index,38.91
+Czech Republic,2013,Europe,Traffic Commute Time Index,30.78
+Taiwan,2013,Asia,Traffic Commute Time Index,38.33
+Portugal,2013,Europe,Traffic Commute Time Index,27.88
+Puerto Rico,2013,Americas,Traffic Commute Time Index,32.5
+Slovakia,2013,Europe,Traffic Commute Time Index,41
+Lithuania,2013,Europe,Traffic Commute Time Index,27.33
+Israel,2013,Asia,Traffic Commute Time Index,46.6
+Hong Kong,2013,Asia,Traffic Commute Time Index,43.88
+Poland,2013,Europe,Traffic Commute Time Index,36.24
+Croatia,2013,Europe,Traffic Commute Time Index,43.86
+Mexico,2013,Americas,Traffic Commute Time Index,37.37
+Italy,2013,Europe,Traffic Commute Time Index,38.43
+Panama,2013,Americas,Traffic Commute Time Index,31.67
+Hungary,2013,Europe,Traffic Commute Time Index,22.45
+Malaysia,2013,Asia,Traffic Commute Time Index,38.64
+Uruguay,2013,Americas,Traffic Commute Time Index,50
+Turkey,2013,Asia,Traffic Commute Time Index,50.47
+India,2013,Asia,Traffic Commute Time Index,50.64
+Chile,2013,Americas,Traffic Commute Time Index,40.22
+Argentina,2013,Americas,Traffic Commute Time Index,46.71
+Bosnia And Herzegovina,2013,Europe,Traffic Commute Time Index,18.83
+Singapore,2013,Asia,Traffic Commute Time Index,51.1
+Serbia,2013,Europe,Traffic Commute Time Index,25.48
+Romania,2013,Europe,Traffic Commute Time Index,34.85
+Greece,2013,Europe,Traffic Commute Time Index,38.51
+Thailand,2013,Asia,Traffic Commute Time Index,38.57
+Bulgaria,2013,Europe,Traffic Commute Time Index,22.17
+Brazil,2013,Americas,Traffic Commute Time Index,35.82
+Ecuador,2013,Americas,Traffic Commute Time Index,43
+Georgia,2013,Asia,Traffic Commute Time Index,20
+Colombia,2013,Americas,Traffic Commute Time Index,43.57
+Ukraine,2013,Europe,Traffic Commute Time Index,39.91
+China,2013,Asia,Traffic Commute Time Index,30.5
+Philippines,2013,Asia,Traffic Commute Time Index,46.75
+Russian Federation,2013,Europe,Traffic Commute Time Index,49.68
+Mongolia,2013,Asia,Traffic Commute Time Index,26.67
+Lebanon,2013,Asia,Traffic Commute Time Index,36.4
+Pakistan,2013,Asia,Traffic Commute Time Index,16
+Egypt,2013,Africa,Traffic Commute Time Index,59
+Iran,2013,Asia,Traffic Commute Time Index,58.28
+Indonesia,2013,Asia,Traffic Commute Time Index,54.38
+Venezuela,2013,Americas,Traffic Commute Time Index,38.75
+Switzerland,2012,Europe,Traffic Commute Time Index,30.88
+Germany,2012,Europe,Traffic Commute Time Index,33.12
+Norway,2012,Europe,Traffic Commute Time Index,18.5
+United Arab Emirates,2012,Asia,Traffic Commute Time Index,17
+New Zealand,2012,Oceania,Traffic Commute Time Index,25.25
+Sweden,2012,Europe,Traffic Commute Time Index,23
+Canada,2012,Americas,Traffic Commute Time Index,40.44
+Denmark,2012,Europe,Traffic Commute Time Index,31
+Australia,2012,Oceania,Traffic Commute Time Index,37.09
+Austria,2012,Europe,Traffic Commute Time Index,23
+Netherlands,2012,Europe,Traffic Commute Time Index,26.83
+United States of America,2012,Americas,Traffic Commute Time Index,36.36
+Japan,2012,Asia,Traffic Commute Time Index,46.5
+Ireland,2012,Europe,Traffic Commute Time Index,11.67
+Slovenia,2012,Europe,Traffic Commute Time Index,24.67
+France,2012,Europe,Traffic Commute Time Index,29
+Israel,2012,Asia,Traffic Commute Time Index,46.6
+United Kingdom,2012,Europe,Traffic Commute Time Index,44.17
+Portugal,2012,Europe,Traffic Commute Time Index,28
+Spain,2012,Europe,Traffic Commute Time Index,26.45
+Belgium,2012,Europe,Traffic Commute Time Index,21.5
+Croatia,2012,Europe,Traffic Commute Time Index,37
+Czech Republic,2012,Europe,Traffic Commute Time Index,28.67
+Singapore,2012,Asia,Traffic Commute Time Index,66.25
+South Africa,2012,Africa,Traffic Commute Time Index,34.5
+Saudi Arabia,2012,Asia,Traffic Commute Time Index,15.75
+Turkey,2012,Asia,Traffic Commute Time Index,54.22
+Malaysia,2012,Asia,Traffic Commute Time Index,32.4
+Poland,2012,Europe,Traffic Commute Time Index,36.27
+Mexico,2012,Americas,Traffic Commute Time Index,31.33
+Italy,2012,Europe,Traffic Commute Time Index,37.81
+Hungary,2012,Europe,Traffic Commute Time Index,24.67
+India,2012,Asia,Traffic Commute Time Index,48.33
+Indonesia,2012,Asia,Traffic Commute Time Index,36.67
+Serbia,2012,Europe,Traffic Commute Time Index,25.65
+Argentina,2012,Americas,Traffic Commute Time Index,45.4
+Bulgaria,2012,Europe,Traffic Commute Time Index,26.33
+Bosnia And Herzegovina,2012,Europe,Traffic Commute Time Index,17
+Romania,2012,Europe,Traffic Commute Time Index,32.47
+Thailand,2012,Asia,Traffic Commute Time Index,38.75
+Colombia,2012,Americas,Traffic Commute Time Index,44
+Greece,2012,Europe,Traffic Commute Time Index,38.22
+Chile,2012,Americas,Traffic Commute Time Index,41.62
+Brazil,2012,Americas,Traffic Commute Time Index,30
+Pakistan,2012,Asia,Traffic Commute Time Index,13
+Philippines,2012,Asia,Traffic Commute Time Index,54.89
+Russian Federation,2012,Europe,Traffic Commute Time Index,47.83
+Ukraine,2012,Europe,Traffic Commute Time Index,33
+Egypt,2012,Africa,Traffic Commute Time Index,59
+Iran,2012,Asia,Traffic Commute Time Index,73.5
+China,2012,Asia,Traffic Commute Time Index,29.67
