@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Stock prices of 5 Tech Companies over Time, with a point marker on hover. Note that the hidden markers are intentionally bigger to make it easier for readers to hover.",
+    "data": {"url": "https://raw.githubusercontent.com/riaraghani/visualisation02/main/data/unemployment_by_country.csv"},
+    "encoding": {
+      "x": {"field": "Year", "type": "ordinal"},
+      "y": {"aggregate": "mean", "field": "Unemployment Rate", "type": "quantitative"},
+      "color": {"field": "Continent", "type": "nominal","scale": {"scheme":"category20b"}}
+    },
+    "layer": [{
+      "mark": "line"
+    }, {
+      "params": [{
+        "name": "hover",
+        "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
+      }],
+      "mark": {"type": "circle"},
+      "encoding": {
+        "tooltip": [
+      {"field": "Continent", "type": "nominal", "title": "Country"},
+      {"field": "Unemployment Rate", "type": "quantitative","aggregate":"mean", "format":".1f"},
+      {"field": "Year", "type": "ordinal", "title": "Year"}
+      ],
+        "opacity": {
+          "condition": {"test": {"param": "hover", "empty": false}, "value": 1},
+          "value": 0
+        },
+        "size": {
+          "condition": {"test": {"param": "hover", "empty": false}, "value": 48},
+          "value": 100
+        }
+      }
+    }]
+  }
+  
